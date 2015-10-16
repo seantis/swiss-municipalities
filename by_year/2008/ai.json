@@ -1,8 +1,20 @@
 {
-    "3101": "Appenzell",
-    "3102": "Gonten",
-    "3103": "R\u00fcte",
-    "3104": "Schlatt-Haslen",
-    "3105": "Schwende",
-    "3111": "Oberegg"
+    "3101": {
+        "name": "Appenzell"
+    },
+    "3102": {
+        "name": "Gonten"
+    },
+    "3103": {
+        "name": "R\u00fcte"
+    },
+    "3104": {
+        "name": "Schlatt-Haslen"
+    },
+    "3105": {
+        "name": "Schwende"
+    },
+    "3111": {
+        "name": "Oberegg"
+    }
 }

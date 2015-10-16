@@ -1,222 +1,882 @@
 {
-    "3501": "Alvaschein",
-    "3502": "Mon",
-    "3503": "Mutten",
-    "3504": "Stierva",
-    "3505": "Tiefencastel",
-    "3506": "Vaz/Obervaz",
-    "3511": "Alvaneu",
-    "3512": "Brienz (GR)",
-    "3513": "Lantsch/Lenz",
-    "3514": "Schmitten (GR)",
-    "3515": "Surava",
-    "3521": "Berg\u00fcn/Bravuogn",
-    "3522": "Filisur",
-    "3523": "Wiesen (GR)",
-    "3531": "Bivio",
-    "3532": "Cunter",
-    "3533": "Marmorera",
-    "3534": "Mulegns",
-    "3535": "Parsonz",
-    "3536": "Riom",
-    "3537": "Rona",
-    "3538": "Salouf",
-    "3539": "Savognin",
-    "3540": "Sur",
-    "3541": "Tinizong",
-    "3551": "Brusio",
-    "3561": "Poschiavo",
-    "3571": "Castrisch",
-    "3572": "Fellers",
-    "3573": "Flond",
-    "3574": "Ilanz",
-    "3575": "Laax",
-    "3576": "Ladir",
-    "3577": "Luven",
-    "3578": "Pitasch",
-    "3579": "Riein",
-    "3580": "Ruschein",
-    "3581": "Sagogn",
-    "3582": "Schleuis",
-    "3583": "Schnaus",
-    "3584": "Sevgein",
-    "3585": "Strada",
-    "3586": "Valendas",
-    "3587": "Versam",
-    "3591": "Camuns",
-    "3592": "Cumbels",
-    "3593": "Duvin",
-    "3594": "Igels",
-    "3595": "Lumbrein",
-    "3596": "Morissen",
-    "3598": "St. Martin",
-    "3599": "Surcasti",
-    "3600": "Surcuolm",
-    "3601": "Tersnaus",
-    "3602": "Uors-Peiden",
-    "3603": "Vals",
-    "3604": "Vigens",
-    "3605": "Villa (GR)",
-    "3606": "Vrin",
-    "3611": "Andiast",
-    "3612": "Obersaxen",
-    "3613": "Pigniu/Panix",
-    "3614": "Rueun",
-    "3615": "Siat",
-    "3616": "Waltensburg/Vuorz",
-    "3631": "Almens",
-    "3632": "Feldis/Veulden",
-    "3633": "F\u00fcrstenau",
-    "3634": "Paspels",
-    "3635": "Pratval",
-    "3636": "Rodels",
-    "3637": "Rothenbrunnen",
-    "3638": "Scharans",
-    "3639": "Scheid",
-    "3640": "Sils im Domleschg",
-    "3641": "Trans",
-    "3642": "Tumegl/Tomils",
-    "3651": "Safien",
-    "3652": "Tenna",
-    "3661": "Cazis",
-    "3662": "Flerden",
-    "3663": "Masein",
-    "3664": "Portein",
-    "3665": "Pr\u00e4z",
-    "3666": "Sarn",
-    "3667": "Tartar",
-    "3668": "Thusis",
-    "3669": "Tschappina",
-    "3670": "Urmein",
-    "3681": "Avers",
-    "3691": "Hinterrhein",
-    "3692": "Medels im Rheinwald",
-    "3693": "Nufenen",
-    "3694": "Spl\u00fcgen",
-    "3695": "Sufers",
-    "3701": "Andeer",
-    "3702": "Ausserferrera",
-    "3703": "Casti-Wergenstein",
-    "3704": "Clugin",
-    "3705": "Donath",
-    "3706": "Innerferrera",
-    "3707": "Lohn (GR)",
-    "3708": "Mathon",
-    "3709": "Patzen-Fard\u00fcn",
-    "3710": "Pignia",
-    "3711": "Rongellen",
-    "3712": "Zillis-Reischen",
-    "3721": "Bonaduz",
-    "3722": "Domat/Ems",
-    "3723": "Rh\u00e4z\u00fcns",
-    "3731": "Felsberg",
-    "3732": "Flims",
-    "3733": "Tamins",
-    "3734": "Trin",
-    "3741": "Ardez",
-    "3742": "Guarda",
-    "3743": "Lavin",
-    "3744": "Susch",
-    "3745": "Tarasp",
-    "3746": "Zernez",
-    "3751": "Ramosch",
-    "3752": "Samnaun",
-    "3753": "Tschlin",
-    "3761": "Ftan",
-    "3762": "Scuol/Schuls",
-    "3763": "Sent",
-    "3771": "Bondo",
-    "3772": "Casaccia",
-    "3773": "Castasegna",
-    "3774": "Soglio",
-    "3775": "Stampa",
-    "3776": "Vicosoprano",
-    "3781": "Bever",
-    "3782": "Celerina/Schlarigna",
-    "3783": "Madulain",
-    "3784": "Pontresina",
-    "3785": "La Punt-Chamues-ch",
-    "3786": "Samedan",
-    "3787": "St. Moritz",
-    "3788": "S-chanf",
-    "3789": "Sils im Engadin/Segl",
-    "3790": "Silvaplana",
-    "3791": "Zuoz",
-    "3801": "Arvigo",
-    "3802": "Augio",
-    "3803": "Braggio",
-    "3804": "Buseno",
-    "3805": "Castaneda",
-    "3806": "Cauco",
-    "3807": "Landarenca",
-    "3808": "Rossa",
-    "3809": "Santa Domenica",
-    "3810": "Santa Maria in Calanca",
-    "3811": "Selma",
-    "3821": "Lostallo",
-    "3822": "Mesocco",
-    "3823": "Soazza",
-    "3831": "Cama",
-    "3832": "Grono",
-    "3833": "Leggia",
-    "3834": "Roveredo (GR)",
-    "3835": "San Vittore",
-    "3836": "Verdabbio",
-    "3841": "Fuldera",
-    "3842": "L\u00fc",
-    "3843": "M\u00fcstair",
-    "3844": "Santa Maria im M\u00fcnstertal",
-    "3845": "Tschierv",
-    "3846": "Valchava",
-    "3851": "Davos",
-    "3861": "Fideris",
-    "3862": "Furna",
-    "3863": "Jenaz",
-    "3871": "Klosters",
-    "3881": "Conters im Pr\u00e4ttigau",
-    "3882": "K\u00fcblis",
-    "3883": "Saas",
-    "3891": "Luzein",
-    "3892": "St. Ant\u00f6nien Ascharina",
-    "3893": "St. Ant\u00f6nien Castels",
-    "3894": "St. Ant\u00f6nien R\u00fcti",
-    "3901": "Chur",
-    "3911": "Churwalden",
-    "3912": "Malix",
-    "3913": "Parpan",
-    "3914": "Praden",
-    "3915": "Tschiertschen",
-    "3921": "Arosa",
-    "3922": "Calfreisen",
-    "3923": "Castiel",
-    "3924": "Langwies",
-    "3925": "L\u00fcen",
-    "3926": "Maladers",
-    "3927": "Molinis",
-    "3928": "Pagig",
-    "3929": "Peist",
-    "3930": "St. Peter",
-    "3941": "Haldenstein",
-    "3942": "Igis",
-    "3943": "Mastrils",
-    "3944": "Says",
-    "3945": "Trimmis",
-    "3946": "Untervaz",
-    "3947": "Zizers",
-    "3951": "Fl\u00e4sch",
-    "3952": "Jenins",
-    "3953": "Maienfeld",
-    "3954": "Malans",
-    "3961": "Gr\u00fcsch",
-    "3962": "Schiers",
-    "3971": "Fanas",
-    "3972": "Seewis im Pr\u00e4ttigau",
-    "3973": "Valzeina",
-    "3981": "Breil/Brigels",
-    "3982": "Disentis/Must\u00e9r",
-    "3983": "Medel (Lucmagn)",
-    "3984": "Schlans",
-    "3985": "Somvix",
-    "3986": "Tavetsch",
-    "3987": "Trun"
+    "3501": {
+        "district": "Albula",
+        "name": "Alvaschein"
+    },
+    "3502": {
+        "district": "Albula",
+        "name": "Mon"
+    },
+    "3503": {
+        "district": "Albula",
+        "name": "Mutten"
+    },
+    "3504": {
+        "district": "Albula",
+        "name": "Stierva"
+    },
+    "3505": {
+        "district": "Albula",
+        "name": "Tiefencastel"
+    },
+    "3506": {
+        "district": "Albula",
+        "name": "Vaz/Obervaz"
+    },
+    "3511": {
+        "district": "Albula",
+        "name": "Alvaneu"
+    },
+    "3512": {
+        "district": "Albula",
+        "name": "Brienz (GR)"
+    },
+    "3513": {
+        "district": "Albula",
+        "name": "Lantsch/Lenz"
+    },
+    "3514": {
+        "district": "Albula",
+        "name": "Schmitten (GR)"
+    },
+    "3515": {
+        "district": "Albula",
+        "name": "Surava"
+    },
+    "3521": {
+        "district": "Albula",
+        "name": "Berg\u00fcn/Bravuogn"
+    },
+    "3522": {
+        "district": "Albula",
+        "name": "Filisur"
+    },
+    "3523": {
+        "district": "Albula",
+        "name": "Wiesen (GR)"
+    },
+    "3531": {
+        "district": "Albula",
+        "name": "Bivio"
+    },
+    "3532": {
+        "district": "Albula",
+        "name": "Cunter"
+    },
+    "3533": {
+        "district": "Albula",
+        "name": "Marmorera"
+    },
+    "3534": {
+        "district": "Albula",
+        "name": "Mulegns"
+    },
+    "3535": {
+        "district": "Albula",
+        "name": "Parsonz"
+    },
+    "3536": {
+        "district": "Albula",
+        "name": "Riom"
+    },
+    "3537": {
+        "district": "Albula",
+        "name": "Rona"
+    },
+    "3538": {
+        "district": "Albula",
+        "name": "Salouf"
+    },
+    "3539": {
+        "district": "Albula",
+        "name": "Savognin"
+    },
+    "3540": {
+        "district": "Albula",
+        "name": "Sur"
+    },
+    "3541": {
+        "district": "Albula",
+        "name": "Tinizong"
+    },
+    "3551": {
+        "district": "Bernina",
+        "name": "Brusio"
+    },
+    "3561": {
+        "district": "Bernina",
+        "name": "Poschiavo"
+    },
+    "3571": {
+        "district": "Glenner",
+        "name": "Castrisch"
+    },
+    "3572": {
+        "district": "Glenner",
+        "name": "Fellers"
+    },
+    "3573": {
+        "district": "Glenner",
+        "name": "Flond"
+    },
+    "3574": {
+        "district": "Glenner",
+        "name": "Ilanz"
+    },
+    "3575": {
+        "district": "Glenner",
+        "name": "Laax"
+    },
+    "3576": {
+        "district": "Glenner",
+        "name": "Ladir"
+    },
+    "3577": {
+        "district": "Glenner",
+        "name": "Luven"
+    },
+    "3578": {
+        "district": "Glenner",
+        "name": "Pitasch"
+    },
+    "3579": {
+        "district": "Glenner",
+        "name": "Riein"
+    },
+    "3580": {
+        "district": "Glenner",
+        "name": "Ruschein"
+    },
+    "3581": {
+        "district": "Glenner",
+        "name": "Sagogn"
+    },
+    "3582": {
+        "district": "Glenner",
+        "name": "Schleuis"
+    },
+    "3583": {
+        "district": "Glenner",
+        "name": "Schnaus"
+    },
+    "3584": {
+        "district": "Glenner",
+        "name": "Sevgein"
+    },
+    "3585": {
+        "district": "Glenner",
+        "name": "Strada"
+    },
+    "3586": {
+        "district": "Glenner",
+        "name": "Valendas"
+    },
+    "3587": {
+        "district": "Glenner",
+        "name": "Versam"
+    },
+    "3591": {
+        "district": "Glenner",
+        "name": "Camuns"
+    },
+    "3592": {
+        "district": "Glenner",
+        "name": "Cumbels"
+    },
+    "3593": {
+        "district": "Glenner",
+        "name": "Duvin"
+    },
+    "3594": {
+        "district": "Glenner",
+        "name": "Igels"
+    },
+    "3595": {
+        "district": "Glenner",
+        "name": "Lumbrein"
+    },
+    "3596": {
+        "district": "Glenner",
+        "name": "Morissen"
+    },
+    "3598": {
+        "district": "Glenner",
+        "name": "St. Martin"
+    },
+    "3599": {
+        "district": "Glenner",
+        "name": "Surcasti"
+    },
+    "3600": {
+        "district": "Glenner",
+        "name": "Surcuolm"
+    },
+    "3601": {
+        "district": "Glenner",
+        "name": "Tersnaus"
+    },
+    "3602": {
+        "district": "Glenner",
+        "name": "Uors-Peiden"
+    },
+    "3603": {
+        "district": "Glenner",
+        "name": "Vals"
+    },
+    "3604": {
+        "district": "Glenner",
+        "name": "Vigens"
+    },
+    "3605": {
+        "district": "Glenner",
+        "name": "Villa (GR)"
+    },
+    "3606": {
+        "district": "Glenner",
+        "name": "Vrin"
+    },
+    "3611": {
+        "district": "Glenner",
+        "name": "Andiast"
+    },
+    "3612": {
+        "district": "Glenner",
+        "name": "Obersaxen"
+    },
+    "3613": {
+        "district": "Glenner",
+        "name": "Pigniu/Panix"
+    },
+    "3614": {
+        "district": "Glenner",
+        "name": "Rueun"
+    },
+    "3615": {
+        "district": "Glenner",
+        "name": "Siat"
+    },
+    "3616": {
+        "district": "Glenner",
+        "name": "Waltensburg/Vuorz"
+    },
+    "3631": {
+        "district": "Heinzenberg",
+        "name": "Almens"
+    },
+    "3632": {
+        "district": "Heinzenberg",
+        "name": "Feldis/Veulden"
+    },
+    "3633": {
+        "district": "Heinzenberg",
+        "name": "F\u00fcrstenau"
+    },
+    "3634": {
+        "district": "Heinzenberg",
+        "name": "Paspels"
+    },
+    "3635": {
+        "district": "Heinzenberg",
+        "name": "Pratval"
+    },
+    "3636": {
+        "district": "Heinzenberg",
+        "name": "Rodels"
+    },
+    "3637": {
+        "district": "Heinzenberg",
+        "name": "Rothenbrunnen"
+    },
+    "3638": {
+        "district": "Heinzenberg",
+        "name": "Scharans"
+    },
+    "3639": {
+        "district": "Heinzenberg",
+        "name": "Scheid"
+    },
+    "3640": {
+        "district": "Heinzenberg",
+        "name": "Sils im Domleschg"
+    },
+    "3641": {
+        "district": "Heinzenberg",
+        "name": "Trans"
+    },
+    "3642": {
+        "district": "Heinzenberg",
+        "name": "Tumegl/Tomils"
+    },
+    "3651": {
+        "district": "Heinzenberg",
+        "name": "Safien"
+    },
+    "3652": {
+        "district": "Heinzenberg",
+        "name": "Tenna"
+    },
+    "3661": {
+        "district": "Heinzenberg",
+        "name": "Cazis"
+    },
+    "3662": {
+        "district": "Heinzenberg",
+        "name": "Flerden"
+    },
+    "3663": {
+        "district": "Heinzenberg",
+        "name": "Masein"
+    },
+    "3664": {
+        "district": "Heinzenberg",
+        "name": "Portein"
+    },
+    "3665": {
+        "district": "Heinzenberg",
+        "name": "Pr\u00e4z"
+    },
+    "3666": {
+        "district": "Heinzenberg",
+        "name": "Sarn"
+    },
+    "3667": {
+        "district": "Heinzenberg",
+        "name": "Tartar"
+    },
+    "3668": {
+        "district": "Heinzenberg",
+        "name": "Thusis"
+    },
+    "3669": {
+        "district": "Heinzenberg",
+        "name": "Tschappina"
+    },
+    "3670": {
+        "district": "Heinzenberg",
+        "name": "Urmein"
+    },
+    "3681": {
+        "district": "Hinterrhein",
+        "name": "Avers"
+    },
+    "3691": {
+        "district": "Hinterrhein",
+        "name": "Hinterrhein"
+    },
+    "3692": {
+        "district": "Hinterrhein",
+        "name": "Medels im Rheinwald"
+    },
+    "3693": {
+        "district": "Hinterrhein",
+        "name": "Nufenen"
+    },
+    "3694": {
+        "district": "Hinterrhein",
+        "name": "Spl\u00fcgen"
+    },
+    "3695": {
+        "district": "Hinterrhein",
+        "name": "Sufers"
+    },
+    "3701": {
+        "district": "Hinterrhein",
+        "name": "Andeer"
+    },
+    "3702": {
+        "district": "Hinterrhein",
+        "name": "Ausserferrera"
+    },
+    "3703": {
+        "district": "Hinterrhein",
+        "name": "Casti-Wergenstein"
+    },
+    "3704": {
+        "district": "Hinterrhein",
+        "name": "Clugin"
+    },
+    "3705": {
+        "district": "Hinterrhein",
+        "name": "Donath"
+    },
+    "3706": {
+        "district": "Hinterrhein",
+        "name": "Innerferrera"
+    },
+    "3707": {
+        "district": "Hinterrhein",
+        "name": "Lohn (GR)"
+    },
+    "3708": {
+        "district": "Hinterrhein",
+        "name": "Mathon"
+    },
+    "3709": {
+        "district": "Hinterrhein",
+        "name": "Patzen-Fard\u00fcn"
+    },
+    "3710": {
+        "district": "Hinterrhein",
+        "name": "Pignia"
+    },
+    "3711": {
+        "district": "Hinterrhein",
+        "name": "Rongellen"
+    },
+    "3712": {
+        "district": "Hinterrhein",
+        "name": "Zillis-Reischen"
+    },
+    "3721": {
+        "district": "Imboden",
+        "name": "Bonaduz"
+    },
+    "3722": {
+        "district": "Imboden",
+        "name": "Domat/Ems"
+    },
+    "3723": {
+        "district": "Imboden",
+        "name": "Rh\u00e4z\u00fcns"
+    },
+    "3731": {
+        "district": "Imboden",
+        "name": "Felsberg"
+    },
+    "3732": {
+        "district": "Imboden",
+        "name": "Flims"
+    },
+    "3733": {
+        "district": "Imboden",
+        "name": "Tamins"
+    },
+    "3734": {
+        "district": "Imboden",
+        "name": "Trin"
+    },
+    "3741": {
+        "district": "Inn",
+        "name": "Ardez"
+    },
+    "3742": {
+        "district": "Inn",
+        "name": "Guarda"
+    },
+    "3743": {
+        "district": "Inn",
+        "name": "Lavin"
+    },
+    "3744": {
+        "district": "Inn",
+        "name": "Susch"
+    },
+    "3745": {
+        "district": "Inn",
+        "name": "Tarasp"
+    },
+    "3746": {
+        "district": "Inn",
+        "name": "Zernez"
+    },
+    "3751": {
+        "district": "Inn",
+        "name": "Ramosch"
+    },
+    "3752": {
+        "district": "Inn",
+        "name": "Samnaun"
+    },
+    "3753": {
+        "district": "Inn",
+        "name": "Tschlin"
+    },
+    "3761": {
+        "district": "Inn",
+        "name": "Ftan"
+    },
+    "3762": {
+        "district": "Inn",
+        "name": "Scuol/Schuls"
+    },
+    "3763": {
+        "district": "Inn",
+        "name": "Sent"
+    },
+    "3771": {
+        "district": "Maloja / Maloggia",
+        "name": "Bondo"
+    },
+    "3772": {
+        "district": "Maloja / Maloggia",
+        "name": "Casaccia"
+    },
+    "3773": {
+        "district": "Maloja / Maloggia",
+        "name": "Castasegna"
+    },
+    "3774": {
+        "district": "Maloja / Maloggia",
+        "name": "Soglio"
+    },
+    "3775": {
+        "district": "Maloja / Maloggia",
+        "name": "Stampa"
+    },
+    "3776": {
+        "district": "Maloja / Maloggia",
+        "name": "Vicosoprano"
+    },
+    "3781": {
+        "district": "Maloja / Maloggia",
+        "name": "Bever"
+    },
+    "3782": {
+        "district": "Maloja / Maloggia",
+        "name": "Celerina/Schlarigna"
+    },
+    "3783": {
+        "district": "Maloja / Maloggia",
+        "name": "Madulain"
+    },
+    "3784": {
+        "district": "Maloja / Maloggia",
+        "name": "Pontresina"
+    },
+    "3785": {
+        "district": "Maloja / Maloggia",
+        "name": "La Punt-Chamues-ch"
+    },
+    "3786": {
+        "district": "Maloja / Maloggia",
+        "name": "Samedan"
+    },
+    "3787": {
+        "district": "Maloja / Maloggia",
+        "name": "St. Moritz"
+    },
+    "3788": {
+        "district": "Maloja / Maloggia",
+        "name": "S-chanf"
+    },
+    "3789": {
+        "district": "Maloja / Maloggia",
+        "name": "Sils im Engadin/Segl"
+    },
+    "3790": {
+        "district": "Maloja / Maloggia",
+        "name": "Silvaplana"
+    },
+    "3791": {
+        "district": "Maloja / Maloggia",
+        "name": "Zuoz"
+    },
+    "3801": {
+        "district": "Mo\u00ebsa",
+        "name": "Arvigo"
+    },
+    "3802": {
+        "district": "Mo\u00ebsa",
+        "name": "Augio"
+    },
+    "3803": {
+        "district": "Mo\u00ebsa",
+        "name": "Braggio"
+    },
+    "3804": {
+        "district": "Mo\u00ebsa",
+        "name": "Buseno"
+    },
+    "3805": {
+        "district": "Mo\u00ebsa",
+        "name": "Castaneda"
+    },
+    "3806": {
+        "district": "Mo\u00ebsa",
+        "name": "Cauco"
+    },
+    "3807": {
+        "district": "Mo\u00ebsa",
+        "name": "Landarenca"
+    },
+    "3808": {
+        "district": "Mo\u00ebsa",
+        "name": "Rossa"
+    },
+    "3809": {
+        "district": "Mo\u00ebsa",
+        "name": "Santa Domenica"
+    },
+    "3810": {
+        "district": "Mo\u00ebsa",
+        "name": "Santa Maria in Calanca"
+    },
+    "3811": {
+        "district": "Mo\u00ebsa",
+        "name": "Selma"
+    },
+    "3821": {
+        "district": "Mo\u00ebsa",
+        "name": "Lostallo"
+    },
+    "3822": {
+        "district": "Mo\u00ebsa",
+        "name": "Mesocco"
+    },
+    "3823": {
+        "district": "Mo\u00ebsa",
+        "name": "Soazza"
+    },
+    "3831": {
+        "district": "Mo\u00ebsa",
+        "name": "Cama"
+    },
+    "3832": {
+        "district": "Mo\u00ebsa",
+        "name": "Grono"
+    },
+    "3833": {
+        "district": "Mo\u00ebsa",
+        "name": "Leggia"
+    },
+    "3834": {
+        "district": "Mo\u00ebsa",
+        "name": "Roveredo (GR)"
+    },
+    "3835": {
+        "district": "Mo\u00ebsa",
+        "name": "San Vittore"
+    },
+    "3836": {
+        "district": "Mo\u00ebsa",
+        "name": "Verdabbio"
+    },
+    "3841": {
+        "district": "M\u00fcnstertal",
+        "name": "Fuldera"
+    },
+    "3842": {
+        "district": "M\u00fcnstertal",
+        "name": "L\u00fc"
+    },
+    "3843": {
+        "district": "M\u00fcnstertal",
+        "name": "M\u00fcstair"
+    },
+    "3844": {
+        "district": "M\u00fcnstertal",
+        "name": "Santa Maria im M\u00fcnstertal"
+    },
+    "3845": {
+        "district": "M\u00fcnstertal",
+        "name": "Tschierv"
+    },
+    "3846": {
+        "district": "M\u00fcnstertal",
+        "name": "Valchava"
+    },
+    "3851": {
+        "district": "Oberlandquart",
+        "name": "Davos"
+    },
+    "3861": {
+        "district": "Oberlandquart",
+        "name": "Fideris"
+    },
+    "3862": {
+        "district": "Oberlandquart",
+        "name": "Furna"
+    },
+    "3863": {
+        "district": "Oberlandquart",
+        "name": "Jenaz"
+    },
+    "3871": {
+        "district": "Oberlandquart",
+        "name": "Klosters"
+    },
+    "3881": {
+        "district": "Oberlandquart",
+        "name": "Conters im Pr\u00e4ttigau"
+    },
+    "3882": {
+        "district": "Oberlandquart",
+        "name": "K\u00fcblis"
+    },
+    "3883": {
+        "district": "Oberlandquart",
+        "name": "Saas"
+    },
+    "3891": {
+        "district": "Oberlandquart",
+        "name": "Luzein"
+    },
+    "3892": {
+        "district": "Oberlandquart",
+        "name": "St. Ant\u00f6nien Ascharina"
+    },
+    "3893": {
+        "district": "Oberlandquart",
+        "name": "St. Ant\u00f6nien Castels"
+    },
+    "3894": {
+        "district": "Oberlandquart",
+        "name": "St. Ant\u00f6nien R\u00fcti"
+    },
+    "3901": {
+        "district": "Plessur",
+        "name": "Chur"
+    },
+    "3911": {
+        "district": "Plessur",
+        "name": "Churwalden"
+    },
+    "3912": {
+        "district": "Plessur",
+        "name": "Malix"
+    },
+    "3913": {
+        "district": "Plessur",
+        "name": "Parpan"
+    },
+    "3914": {
+        "district": "Plessur",
+        "name": "Praden"
+    },
+    "3915": {
+        "district": "Plessur",
+        "name": "Tschiertschen"
+    },
+    "3921": {
+        "district": "Plessur",
+        "name": "Arosa"
+    },
+    "3922": {
+        "district": "Plessur",
+        "name": "Calfreisen"
+    },
+    "3923": {
+        "district": "Plessur",
+        "name": "Castiel"
+    },
+    "3924": {
+        "district": "Plessur",
+        "name": "Langwies"
+    },
+    "3925": {
+        "district": "Plessur",
+        "name": "L\u00fcen"
+    },
+    "3926": {
+        "district": "Plessur",
+        "name": "Maladers"
+    },
+    "3927": {
+        "district": "Plessur",
+        "name": "Molinis"
+    },
+    "3928": {
+        "district": "Plessur",
+        "name": "Pagig"
+    },
+    "3929": {
+        "district": "Plessur",
+        "name": "Peist"
+    },
+    "3930": {
+        "district": "Plessur",
+        "name": "St. Peter"
+    },
+    "3941": {
+        "district": "Unterlandquart",
+        "name": "Haldenstein"
+    },
+    "3942": {
+        "district": "Unterlandquart",
+        "name": "Igis"
+    },
+    "3943": {
+        "district": "Unterlandquart",
+        "name": "Mastrils"
+    },
+    "3944": {
+        "district": "Unterlandquart",
+        "name": "Says"
+    },
+    "3945": {
+        "district": "Unterlandquart",
+        "name": "Trimmis"
+    },
+    "3946": {
+        "district": "Unterlandquart",
+        "name": "Untervaz"
+    },
+    "3947": {
+        "district": "Unterlandquart",
+        "name": "Zizers"
+    },
+    "3951": {
+        "district": "Unterlandquart",
+        "name": "Fl\u00e4sch"
+    },
+    "3952": {
+        "district": "Unterlandquart",
+        "name": "Jenins"
+    },
+    "3953": {
+        "district": "Unterlandquart",
+        "name": "Maienfeld"
+    },
+    "3954": {
+        "district": "Unterlandquart",
+        "name": "Malans"
+    },
+    "3961": {
+        "district": "Unterlandquart",
+        "name": "Gr\u00fcsch"
+    },
+    "3962": {
+        "district": "Unterlandquart",
+        "name": "Schiers"
+    },
+    "3971": {
+        "district": "Unterlandquart",
+        "name": "Fanas"
+    },
+    "3972": {
+        "district": "Unterlandquart",
+        "name": "Seewis im Pr\u00e4ttigau"
+    },
+    "3973": {
+        "district": "Unterlandquart",
+        "name": "Valzeina"
+    },
+    "3981": {
+        "district": "Vorderrhein",
+        "name": "Breil/Brigels"
+    },
+    "3982": {
+        "district": "Vorderrhein",
+        "name": "Disentis/Must\u00e9r"
+    },
+    "3983": {
+        "district": "Vorderrhein",
+        "name": "Medel (Lucmagn)"
+    },
+    "3984": {
+        "district": "Vorderrhein",
+        "name": "Schlans"
+    },
+    "3985": {
+        "district": "Vorderrhein",
+        "name": "Somvix"
+    },
+    "3986": {
+        "district": "Vorderrhein",
+        "name": "Tavetsch"
+    },
+    "3987": {
+        "district": "Vorderrhein",
+        "name": "Trun"
+    }
 }

@@ -1,22 +1,62 @@
 {
-    "1201": "Altdorf (UR)",
-    "1202": "Andermatt",
-    "1203": "Attinghausen",
-    "1204": "Bauen",
-    "1205": "B\u00fcrglen (UR)",
-    "1206": "Erstfeld",
-    "1207": "Fl\u00fcelen",
-    "1208": "G\u00f6schenen",
-    "1209": "Gurtnellen",
-    "1210": "Hospental",
-    "1211": "Isenthal",
-    "1212": "Realp",
-    "1213": "Schattdorf",
-    "1214": "Seedorf (UR)",
-    "1215": "Seelisberg",
-    "1216": "Silenen",
-    "1217": "Sisikon",
-    "1218": "Spiringen",
-    "1219": "Untersch\u00e4chen",
-    "1220": "Wassen"
+    "1201": {
+        "name": "Altdorf (UR)"
+    },
+    "1202": {
+        "name": "Andermatt"
+    },
+    "1203": {
+        "name": "Attinghausen"
+    },
+    "1204": {
+        "name": "Bauen"
+    },
+    "1205": {
+        "name": "B\u00fcrglen (UR)"
+    },
+    "1206": {
+        "name": "Erstfeld"
+    },
+    "1207": {
+        "name": "Fl\u00fcelen"
+    },
+    "1208": {
+        "name": "G\u00f6schenen"
+    },
+    "1209": {
+        "name": "Gurtnellen"
+    },
+    "1210": {
+        "name": "Hospental"
+    },
+    "1211": {
+        "name": "Isenthal"
+    },
+    "1212": {
+        "name": "Realp"
+    },
+    "1213": {
+        "name": "Schattdorf"
+    },
+    "1214": {
+        "name": "Seedorf (UR)"
+    },
+    "1215": {
+        "name": "Seelisberg"
+    },
+    "1216": {
+        "name": "Silenen"
+    },
+    "1217": {
+        "name": "Sisikon"
+    },
+    "1218": {
+        "name": "Spiringen"
+    },
+    "1219": {
+        "name": "Untersch\u00e4chen"
+    },
+    "1220": {
+        "name": "Wassen"
+    }
 }

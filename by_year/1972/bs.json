@@ -1,5 +1,11 @@
 {
-    "2701": "Basel",
-    "2702": "Bettingen",
-    "2703": "Riehen"
+    "2701": {
+        "name": "Basel"
+    },
+    "2702": {
+        "name": "Bettingen"
+    },
+    "2703": {
+        "name": "Riehen"
+    }
 }

@@ -1,85 +1,334 @@
 {
-    "6701": "Bassecourt",
-    "6702": "Bo\u00e9court",
-    "6703": "Bourrignon",
-    "6704": "Ch\u00e2tillon (JU)",
-    "6705": "Corban",
-    "6706": "Courchapoix",
-    "6707": "Courfaivre",
-    "6708": "Courrendlin",
-    "6709": "Courroux",
-    "6710": "Court\u00e9telle",
-    "6711": "Del\u00e9mont",
-    "6712": "Develier",
-    "6713": "Ederswiler",
-    "6714": "Glovelier",
-    "6715": "Mervelier",
-    "6716": "Mettembert",
-    "6717": "Montsevelier",
-    "6718": "Movelier",
-    "6719": "Pleigne",
-    "6720": "Rebeuvelier",
-    "6721": "Rossemaison",
-    "6722": "Saulcy",
-    "6723": "Soulce",
-    "6724": "Soyhi\u00e8res",
-    "6725": "Undervelier",
-    "6726": "Vermes",
-    "6727": "Vicques",
-    "6728": "Vellerat",
-    "6741": "Le B\u00e9mont (JU)",
-    "6742": "Les Bois",
-    "6743": "Les Breuleux",
-    "6744": "La Chaux-des-Breuleux",
-    "6745": "Les Enfers",
-    "6746": "Epauvillers",
-    "6747": "Epiquerez",
-    "6748": "Les Genevez (JU)",
-    "6749": "Goumois",
-    "6750": "Lajoux (JU)",
-    "6751": "Montfaucon",
-    "6752": "Montfavergier",
-    "6753": "Muriaux",
-    "6754": "Le Noirmont",
-    "6755": "Le Peuchapatte",
-    "6756": "Les Pommerats",
-    "6757": "Saignel\u00e9gier",
-    "6758": "Saint-Brais",
-    "6759": "Soubey",
-    "6771": "Alle",
-    "6772": "Asuel",
-    "6773": "Beurnev\u00e9sin",
-    "6774": "Boncourt",
-    "6775": "Bonfol",
-    "6776": "Bressaucourt",
-    "6777": "Buix",
-    "6778": "Bure",
-    "6779": "Charmoille",
-    "6780": "Chevenez",
-    "6781": "Coeuve",
-    "6782": "Cornol",
-    "6783": "Courchavon",
-    "6784": "Courgenay",
-    "6785": "Courtedoux",
-    "6786": "Courtema\u00eeche",
-    "6787": "Damphreux",
-    "6788": "Damvant",
-    "6789": "Fahy",
-    "6790": "Fontenais",
-    "6791": "Fregi\u00e9court",
-    "6792": "Grandfontaine",
-    "6793": "Lugnez",
-    "6794": "Mi\u00e9court",
-    "6795": "Montenol",
-    "6796": "Montignez",
-    "6797": "Montmelon",
-    "6798": "Ocourt",
-    "6799": "Pleujouse",
-    "6800": "Porrentruy",
-    "6801": "R\u00e9cl\u00e8re",
-    "6802": "Roche-d'Or",
-    "6803": "Rocourt",
-    "6804": "Saint-Ursanne",
-    "6805": "Seleute",
-    "6806": "Vendlincourt"
+    "6701": {
+        "district": "Del\u00e9mont",
+        "name": "Bassecourt"
+    },
+    "6702": {
+        "district": "Del\u00e9mont",
+        "name": "Bo\u00e9court"
+    },
+    "6703": {
+        "district": "Del\u00e9mont",
+        "name": "Bourrignon"
+    },
+    "6704": {
+        "district": "Del\u00e9mont",
+        "name": "Ch\u00e2tillon (JU)"
+    },
+    "6705": {
+        "district": "Del\u00e9mont",
+        "name": "Corban"
+    },
+    "6706": {
+        "district": "Del\u00e9mont",
+        "name": "Courchapoix"
+    },
+    "6707": {
+        "district": "Del\u00e9mont",
+        "name": "Courfaivre"
+    },
+    "6708": {
+        "district": "Del\u00e9mont",
+        "name": "Courrendlin"
+    },
+    "6709": {
+        "district": "Del\u00e9mont",
+        "name": "Courroux"
+    },
+    "6710": {
+        "district": "Del\u00e9mont",
+        "name": "Court\u00e9telle"
+    },
+    "6711": {
+        "district": "Del\u00e9mont",
+        "name": "Del\u00e9mont"
+    },
+    "6712": {
+        "district": "Del\u00e9mont",
+        "name": "Develier"
+    },
+    "6713": {
+        "district": "Del\u00e9mont",
+        "name": "Ederswiler"
+    },
+    "6714": {
+        "district": "Del\u00e9mont",
+        "name": "Glovelier"
+    },
+    "6715": {
+        "district": "Del\u00e9mont",
+        "name": "Mervelier"
+    },
+    "6716": {
+        "district": "Del\u00e9mont",
+        "name": "Mettembert"
+    },
+    "6717": {
+        "district": "Del\u00e9mont",
+        "name": "Montsevelier"
+    },
+    "6718": {
+        "district": "Del\u00e9mont",
+        "name": "Movelier"
+    },
+    "6719": {
+        "district": "Del\u00e9mont",
+        "name": "Pleigne"
+    },
+    "6720": {
+        "district": "Del\u00e9mont",
+        "name": "Rebeuvelier"
+    },
+    "6721": {
+        "district": "Del\u00e9mont",
+        "name": "Rossemaison"
+    },
+    "6722": {
+        "district": "Del\u00e9mont",
+        "name": "Saulcy"
+    },
+    "6723": {
+        "district": "Del\u00e9mont",
+        "name": "Soulce"
+    },
+    "6724": {
+        "district": "Del\u00e9mont",
+        "name": "Soyhi\u00e8res"
+    },
+    "6725": {
+        "district": "Del\u00e9mont",
+        "name": "Undervelier"
+    },
+    "6726": {
+        "district": "Del\u00e9mont",
+        "name": "Vermes"
+    },
+    "6727": {
+        "district": "Del\u00e9mont",
+        "name": "Vicques"
+    },
+    "6728": {
+        "district": "Del\u00e9mont",
+        "name": "Vellerat"
+    },
+    "6741": {
+        "district": "Les Franches-Montagnes",
+        "name": "Le B\u00e9mont (JU)"
+    },
+    "6742": {
+        "district": "Les Franches-Montagnes",
+        "name": "Les Bois"
+    },
+    "6743": {
+        "district": "Les Franches-Montagnes",
+        "name": "Les Breuleux"
+    },
+    "6744": {
+        "district": "Les Franches-Montagnes",
+        "name": "La Chaux-des-Breuleux"
+    },
+    "6745": {
+        "district": "Les Franches-Montagnes",
+        "name": "Les Enfers"
+    },
+    "6746": {
+        "district": "Les Franches-Montagnes",
+        "name": "Epauvillers"
+    },
+    "6747": {
+        "district": "Les Franches-Montagnes",
+        "name": "Epiquerez"
+    },
+    "6748": {
+        "district": "Les Franches-Montagnes",
+        "name": "Les Genevez (JU)"
+    },
+    "6749": {
+        "district": "Les Franches-Montagnes",
+        "name": "Goumois"
+    },
+    "6750": {
+        "district": "Les Franches-Montagnes",
+        "name": "Lajoux (JU)"
+    },
+    "6751": {
+        "district": "Les Franches-Montagnes",
+        "name": "Montfaucon"
+    },
+    "6752": {
+        "district": "Les Franches-Montagnes",
+        "name": "Montfavergier"
+    },
+    "6753": {
+        "district": "Les Franches-Montagnes",
+        "name": "Muriaux"
+    },
+    "6754": {
+        "district": "Les Franches-Montagnes",
+        "name": "Le Noirmont"
+    },
+    "6755": {
+        "district": "Les Franches-Montagnes",
+        "name": "Le Peuchapatte"
+    },
+    "6756": {
+        "district": "Les Franches-Montagnes",
+        "name": "Les Pommerats"
+    },
+    "6757": {
+        "district": "Les Franches-Montagnes",
+        "name": "Saignel\u00e9gier"
+    },
+    "6758": {
+        "district": "Les Franches-Montagnes",
+        "name": "Saint-Brais"
+    },
+    "6759": {
+        "district": "Les Franches-Montagnes",
+        "name": "Soubey"
+    },
+    "6771": {
+        "district": "Porrentruy",
+        "name": "Alle"
+    },
+    "6772": {
+        "district": "Porrentruy",
+        "name": "Asuel"
+    },
+    "6773": {
+        "district": "Porrentruy",
+        "name": "Beurnev\u00e9sin"
+    },
+    "6774": {
+        "district": "Porrentruy",
+        "name": "Boncourt"
+    },
+    "6775": {
+        "district": "Porrentruy",
+        "name": "Bonfol"
+    },
+    "6776": {
+        "district": "Porrentruy",
+        "name": "Bressaucourt"
+    },
+    "6777": {
+        "district": "Porrentruy",
+        "name": "Buix"
+    },
+    "6778": {
+        "district": "Porrentruy",
+        "name": "Bure"
+    },
+    "6779": {
+        "district": "Porrentruy",
+        "name": "Charmoille"
+    },
+    "6780": {
+        "district": "Porrentruy",
+        "name": "Chevenez"
+    },
+    "6781": {
+        "district": "Porrentruy",
+        "name": "Coeuve"
+    },
+    "6782": {
+        "district": "Porrentruy",
+        "name": "Cornol"
+    },
+    "6783": {
+        "district": "Porrentruy",
+        "name": "Courchavon"
+    },
+    "6784": {
+        "district": "Porrentruy",
+        "name": "Courgenay"
+    },
+    "6785": {
+        "district": "Porrentruy",
+        "name": "Courtedoux"
+    },
+    "6786": {
+        "district": "Porrentruy",
+        "name": "Courtema\u00eeche"
+    },
+    "6787": {
+        "district": "Porrentruy",
+        "name": "Damphreux"
+    },
+    "6788": {
+        "district": "Porrentruy",
+        "name": "Damvant"
+    },
+    "6789": {
+        "district": "Porrentruy",
+        "name": "Fahy"
+    },
+    "6790": {
+        "district": "Porrentruy",
+        "name": "Fontenais"
+    },
+    "6791": {
+        "district": "Porrentruy",
+        "name": "Fregi\u00e9court"
+    },
+    "6792": {
+        "district": "Porrentruy",
+        "name": "Grandfontaine"
+    },
+    "6793": {
+        "district": "Porrentruy",
+        "name": "Lugnez"
+    },
+    "6794": {
+        "district": "Porrentruy",
+        "name": "Mi\u00e9court"
+    },
+    "6795": {
+        "district": "Porrentruy",
+        "name": "Montenol"
+    },
+    "6796": {
+        "district": "Porrentruy",
+        "name": "Montignez"
+    },
+    "6797": {
+        "district": "Porrentruy",
+        "name": "Montmelon"
+    },
+    "6798": {
+        "district": "Porrentruy",
+        "name": "Ocourt"
+    },
+    "6799": {
+        "district": "Porrentruy",
+        "name": "Pleujouse"
+    },
+    "6800": {
+        "district": "Porrentruy",
+        "name": "Porrentruy"
+    },
+    "6801": {
+        "district": "Porrentruy",
+        "name": "R\u00e9cl\u00e8re"
+    },
+    "6802": {
+        "district": "Porrentruy",
+        "name": "Roche-d'Or"
+    },
+    "6803": {
+        "district": "Porrentruy",
+        "name": "Rocourt"
+    },
+    "6804": {
+        "district": "Porrentruy",
+        "name": "Saint-Ursanne"
+    },
+    "6805": {
+        "district": "Porrentruy",
+        "name": "Seleute"
+    },
+    "6806": {
+        "district": "Porrentruy",
+        "name": "Vendlincourt"
+    }
 }

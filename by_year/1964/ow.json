@@ -1,9 +1,23 @@
 {
-    "1401": "Alpnach",
-    "1402": "Engelberg",
-    "1403": "Giswil",
-    "1404": "Kerns",
-    "1405": "Lungern",
-    "1406": "Sachseln",
-    "1407": "Sarnen"
+    "1401": {
+        "name": "Alpnach"
+    },
+    "1402": {
+        "name": "Engelberg"
+    },
+    "1403": {
+        "name": "Giswil"
+    },
+    "1404": {
+        "name": "Kerns"
+    },
+    "1405": {
+        "name": "Lungern"
+    },
+    "1406": {
+        "name": "Sachseln"
+    },
+    "1407": {
+        "name": "Sarnen"
+    }
 }

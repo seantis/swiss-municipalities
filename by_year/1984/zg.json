@@ -1,13 +1,35 @@
 {
-    "1701": "Baar",
-    "1702": "Cham",
-    "1703": "H\u00fcnenberg",
-    "1704": "Menzingen",
-    "1705": "Neuheim",
-    "1706": "Ober\u00e4geri",
-    "1707": "Risch",
-    "1708": "Steinhausen",
-    "1709": "Unter\u00e4geri",
-    "1710": "Walchwil",
-    "1711": "Zug"
+    "1701": {
+        "name": "Baar"
+    },
+    "1702": {
+        "name": "Cham"
+    },
+    "1703": {
+        "name": "H\u00fcnenberg"
+    },
+    "1704": {
+        "name": "Menzingen"
+    },
+    "1705": {
+        "name": "Neuheim"
+    },
+    "1706": {
+        "name": "Ober\u00e4geri"
+    },
+    "1707": {
+        "name": "Risch"
+    },
+    "1708": {
+        "name": "Steinhausen"
+    },
+    "1709": {
+        "name": "Unter\u00e4geri"
+    },
+    "1710": {
+        "name": "Walchwil"
+    },
+    "1711": {
+        "name": "Zug"
+    }
 }

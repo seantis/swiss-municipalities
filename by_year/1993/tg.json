@@ -1,180 +1,714 @@
 {
-    "4401": "Arbon",
-    "4402": "Frasnacht",
-    "4406": "Dozwil",
-    "4411": "Egnach",
-    "4416": "Hefenhofen",
-    "4421": "Horn",
-    "4426": "Kesswil",
-    "4431": "Roggwil (TG)",
-    "4436": "Romanshorn",
-    "4441": "Salmsach",
-    "4446": "Sommeri",
-    "4451": "Uttwil",
-    "4461": "Amriswil",
-    "4471": "Bischofszell",
-    "4476": "Buchackern",
-    "4477": "Engishofen",
-    "4478": "Ennetaach",
-    "4479": "Erlen",
-    "4480": "K\u00fcmmertshausen",
-    "4486": "Gottshaus",
-    "4487": "Hauptwil",
-    "4491": "Heldswil",
-    "4492": "Hohentannen",
-    "4496": "Buhwil",
-    "4497": "Halden",
-    "4498": "Neukirch an der Thur",
-    "4499": "Sch\u00f6nenberg an der Thur",
-    "4500": "Schweizersholz",
-    "4507": "G\u00f6tighofen",
-    "4508": "Kradolf",
-    "4509": "Riedt",
-    "4510": "Sulgen",
-    "4516": "Schocherswil",
-    "4517": "Sitterdorf",
-    "4518": "Zihlschlacht",
-    "4531": "Basadingen",
-    "4532": "Mett-Oberschlatt",
-    "4533": "Schlattingen",
-    "4534": "Unterschlatt",
-    "4541": "Diessenhofen",
-    "4542": "Willisdorf",
-    "4551": "Aadorf",
-    "4552": "Aawangen",
-    "4553": "Ettenhausen",
-    "4554": "Guntershausen bei Aadorf",
-    "4555": "Wittenwil",
-    "4561": "Felben-Wellhausen",
-    "4566": "Frauenfeld",
-    "4571": "Gachnang",
-    "4572": "Gerlikon",
-    "4573": "Islikon",
-    "4574": "Kefikon",
-    "4575": "Niederwil (TG)",
-    "4576": "Oberwil (TG)",
-    "4581": "Eschikofen",
-    "4582": "Harenwilen",
-    "4583": "H\u00fcttlingen",
-    "4584": "Mettendorf",
-    "4591": "Matzingen",
-    "4596": "Niederneunforn",
-    "4597": "Oberneunforn",
-    "4598": "Wilen bei Neunforn",
-    "4606": "Stettfurt",
-    "4611": "Lustdorf",
-    "4612": "Thundorf",
-    "4616": "Buch bei Frauenfeld",
-    "4617": "Uesslingen",
-    "4618": "Warth",
-    "4631": "Alterswilen",
-    "4632": "Altishausen",
-    "4634": "Ellighausen",
-    "4635": "Lippoldswilen",
-    "4636": "Neuwilen",
-    "4637": "Siegershausen",
-    "4641": "Altnau",
-    "4646": "Ermatingen",
-    "4651": "Gottlieben",
-    "4656": "G\u00fcttingen",
-    "4661": "Illighausen",
-    "4662": "Oberhofen bei Kreuzlingen",
-    "4663": "Sch\u00f6nenbaumgarten",
-    "4671": "Kreuzlingen",
-    "4676": "D\u00fcnnershaus",
-    "4677": "Herrenhof",
-    "4678": "Langrickenbach",
-    "4679": "Zuben",
-    "4686": "Bottighofen",
-    "4687": "Landschlacht",
-    "4688": "Scherzingen",
-    "4696": "T\u00e4gerwilen",
-    "4701": "Engwilen",
-    "4702": "Lipperswil",
-    "4703": "Sonterswil",
-    "4704": "W\u00e4ldi",
-    "4711": "Affeltrangen",
-    "4712": "Buch bei M\u00e4rwil",
-    "4713": "M\u00e4rwil",
-    "4714": "Zezikon",
-    "4721": "Balterswil",
-    "4722": "Bichelsee",
-    "4726": "Fischingen",
-    "4736": "Bettwiesen",
-    "4737": "Kalth\u00e4usern",
-    "4738": "Lommis",
-    "4739": "Weingarten",
-    "4740": "Wetzikon (TG)",
-    "4746": "M\u00fcnchwilen (TG)",
-    "4751": "Rickenbach bei Wil",
-    "4752": "Wilen bei Wil",
-    "4756": "Sch\u00f6nholzerswilen",
-    "4761": "Busswil (TG)",
-    "4762": "Eschlikon",
-    "4763": "Horben",
-    "4764": "Sirnach",
-    "4765": "Wallenwil",
-    "4766": "Wiezikon",
-    "4771": "Braunau",
-    "4772": "T\u00e4gerschen",
-    "4773": "Tobel",
-    "4781": "W\u00e4ngi",
-    "4791": "Wuppenau",
-    "4801": "Berlingen",
-    "4806": "Eschenz",
-    "4811": "Herdern",
-    "4812": "Lanzenneunforn",
-    "4816": "Homburg",
-    "4821": "H\u00fcttwilen",
-    "4822": "Nussbaumen",
-    "4823": "Uerschhausen",
-    "4826": "Mammern",
-    "4831": "M\u00fcllheim",
-    "4836": "Dettighofen",
-    "4837": "Pfyn",
-    "4838": "Weiningen (TG)",
-    "4846": "Raperswilen",
-    "4851": "Salenstein",
-    "4861": "G\u00fcndelhart-H\u00f6rhausen",
-    "4863": "Salen-Reutenen",
-    "4864": "Steckborn",
-    "4871": "Kaltenbach",
-    "4872": "Rheinklingen",
-    "4873": "Wagenhausen",
-    "4881": "Amlikon",
-    "4882": "Bissegg",
-    "4883": "Griesenberg",
-    "4884": "Strohwilen",
-    "4892": "Berg (TG)",
-    "4893": "Graltshausen",
-    "4894": "Mauren",
-    "4895": "Weerswilen",
-    "4901": "Andwil (TG)",
-    "4902": "Birwinken",
-    "4903": "Guntershausen bei Birwinken",
-    "4904": "Happerswil-Buch",
-    "4905": "Klarsreuti",
-    "4906": "Mattwil",
-    "4911": "B\u00fcrglen (TG)",
-    "4912": "Donzhausen",
-    "4913": "Hessenreuti",
-    "4914": "Leimbach (TG)",
-    "4915": "Opfershofen (TG)",
-    "4921": "Bussnang",
-    "4922": "Friltschen",
-    "4923": "Istighofen",
-    "4924": "Lanterswil",
-    "4925": "Mettlen",
-    "4926": "Oberbussnang",
-    "4927": "Oppikon",
-    "4928": "Reuti",
-    "4929": "Rothenhausen",
-    "4936": "Dotnacht",
-    "4937": "Hugelshofen",
-    "4941": "M\u00e4rstetten",
-    "4946": "Weinfelden",
-    "4951": "Bonau",
-    "4952": "Engwang",
-    "4953": "Illhart",
-    "4954": "Wigoltingen"
+    "4401": {
+        "district": "Arbon",
+        "name": "Arbon"
+    },
+    "4402": {
+        "district": "Arbon",
+        "name": "Frasnacht"
+    },
+    "4406": {
+        "district": "Arbon",
+        "name": "Dozwil"
+    },
+    "4411": {
+        "district": "Arbon",
+        "name": "Egnach"
+    },
+    "4416": {
+        "district": "Arbon",
+        "name": "Hefenhofen"
+    },
+    "4421": {
+        "district": "Arbon",
+        "name": "Horn"
+    },
+    "4426": {
+        "district": "Arbon",
+        "name": "Kesswil"
+    },
+    "4431": {
+        "district": "Arbon",
+        "name": "Roggwil (TG)"
+    },
+    "4436": {
+        "district": "Arbon",
+        "name": "Romanshorn"
+    },
+    "4441": {
+        "district": "Arbon",
+        "name": "Salmsach"
+    },
+    "4446": {
+        "district": "Arbon",
+        "name": "Sommeri"
+    },
+    "4451": {
+        "district": "Arbon",
+        "name": "Uttwil"
+    },
+    "4461": {
+        "district": "Bischofszell",
+        "name": "Amriswil"
+    },
+    "4471": {
+        "district": "Bischofszell",
+        "name": "Bischofszell"
+    },
+    "4476": {
+        "district": "Bischofszell",
+        "name": "Buchackern"
+    },
+    "4477": {
+        "district": "Bischofszell",
+        "name": "Engishofen"
+    },
+    "4478": {
+        "district": "Bischofszell",
+        "name": "Ennetaach"
+    },
+    "4479": {
+        "district": "Bischofszell",
+        "name": "Erlen"
+    },
+    "4480": {
+        "district": "Bischofszell",
+        "name": "K\u00fcmmertshausen"
+    },
+    "4486": {
+        "district": "Bischofszell",
+        "name": "Gottshaus"
+    },
+    "4487": {
+        "district": "Bischofszell",
+        "name": "Hauptwil"
+    },
+    "4491": {
+        "district": "Bischofszell",
+        "name": "Heldswil"
+    },
+    "4492": {
+        "district": "Bischofszell",
+        "name": "Hohentannen"
+    },
+    "4496": {
+        "district": "Bischofszell",
+        "name": "Buhwil"
+    },
+    "4497": {
+        "district": "Bischofszell",
+        "name": "Halden"
+    },
+    "4498": {
+        "district": "Bischofszell",
+        "name": "Neukirch an der Thur"
+    },
+    "4499": {
+        "district": "Bischofszell",
+        "name": "Sch\u00f6nenberg an der Thur"
+    },
+    "4500": {
+        "district": "Bischofszell",
+        "name": "Schweizersholz"
+    },
+    "4507": {
+        "district": "Bischofszell",
+        "name": "G\u00f6tighofen"
+    },
+    "4508": {
+        "district": "Bischofszell",
+        "name": "Kradolf"
+    },
+    "4509": {
+        "district": "Bischofszell",
+        "name": "Riedt"
+    },
+    "4510": {
+        "district": "Bischofszell",
+        "name": "Sulgen"
+    },
+    "4516": {
+        "district": "Bischofszell",
+        "name": "Schocherswil"
+    },
+    "4517": {
+        "district": "Bischofszell",
+        "name": "Sitterdorf"
+    },
+    "4518": {
+        "district": "Bischofszell",
+        "name": "Zihlschlacht"
+    },
+    "4531": {
+        "district": "Diessenhofen",
+        "name": "Basadingen"
+    },
+    "4532": {
+        "district": "Diessenhofen",
+        "name": "Mett-Oberschlatt"
+    },
+    "4533": {
+        "district": "Diessenhofen",
+        "name": "Schlattingen"
+    },
+    "4534": {
+        "district": "Diessenhofen",
+        "name": "Unterschlatt"
+    },
+    "4541": {
+        "district": "Diessenhofen",
+        "name": "Diessenhofen"
+    },
+    "4542": {
+        "district": "Diessenhofen",
+        "name": "Willisdorf"
+    },
+    "4551": {
+        "district": "Frauenfeld",
+        "name": "Aadorf"
+    },
+    "4552": {
+        "district": "Frauenfeld",
+        "name": "Aawangen"
+    },
+    "4553": {
+        "district": "Frauenfeld",
+        "name": "Ettenhausen"
+    },
+    "4554": {
+        "district": "Frauenfeld",
+        "name": "Guntershausen bei Aadorf"
+    },
+    "4555": {
+        "district": "Frauenfeld",
+        "name": "Wittenwil"
+    },
+    "4561": {
+        "district": "Frauenfeld",
+        "name": "Felben-Wellhausen"
+    },
+    "4566": {
+        "district": "Frauenfeld",
+        "name": "Frauenfeld"
+    },
+    "4571": {
+        "district": "Frauenfeld",
+        "name": "Gachnang"
+    },
+    "4572": {
+        "district": "Frauenfeld",
+        "name": "Gerlikon"
+    },
+    "4573": {
+        "district": "Frauenfeld",
+        "name": "Islikon"
+    },
+    "4574": {
+        "district": "Frauenfeld",
+        "name": "Kefikon"
+    },
+    "4575": {
+        "district": "Frauenfeld",
+        "name": "Niederwil (TG)"
+    },
+    "4576": {
+        "district": "Frauenfeld",
+        "name": "Oberwil (TG)"
+    },
+    "4581": {
+        "district": "Frauenfeld",
+        "name": "Eschikofen"
+    },
+    "4582": {
+        "district": "Frauenfeld",
+        "name": "Harenwilen"
+    },
+    "4583": {
+        "district": "Frauenfeld",
+        "name": "H\u00fcttlingen"
+    },
+    "4584": {
+        "district": "Frauenfeld",
+        "name": "Mettendorf"
+    },
+    "4591": {
+        "district": "Frauenfeld",
+        "name": "Matzingen"
+    },
+    "4596": {
+        "district": "Frauenfeld",
+        "name": "Niederneunforn"
+    },
+    "4597": {
+        "district": "Frauenfeld",
+        "name": "Oberneunforn"
+    },
+    "4598": {
+        "district": "Frauenfeld",
+        "name": "Wilen bei Neunforn"
+    },
+    "4606": {
+        "district": "Frauenfeld",
+        "name": "Stettfurt"
+    },
+    "4611": {
+        "district": "Frauenfeld",
+        "name": "Lustdorf"
+    },
+    "4612": {
+        "district": "Frauenfeld",
+        "name": "Thundorf"
+    },
+    "4616": {
+        "district": "Frauenfeld",
+        "name": "Buch bei Frauenfeld"
+    },
+    "4617": {
+        "district": "Frauenfeld",
+        "name": "Uesslingen"
+    },
+    "4618": {
+        "district": "Frauenfeld",
+        "name": "Warth"
+    },
+    "4631": {
+        "district": "Kreuzlingen",
+        "name": "Alterswilen"
+    },
+    "4632": {
+        "district": "Kreuzlingen",
+        "name": "Altishausen"
+    },
+    "4634": {
+        "district": "Kreuzlingen",
+        "name": "Ellighausen"
+    },
+    "4635": {
+        "district": "Kreuzlingen",
+        "name": "Lippoldswilen"
+    },
+    "4636": {
+        "district": "Kreuzlingen",
+        "name": "Neuwilen"
+    },
+    "4637": {
+        "district": "Kreuzlingen",
+        "name": "Siegershausen"
+    },
+    "4641": {
+        "district": "Kreuzlingen",
+        "name": "Altnau"
+    },
+    "4646": {
+        "district": "Kreuzlingen",
+        "name": "Ermatingen"
+    },
+    "4651": {
+        "district": "Kreuzlingen",
+        "name": "Gottlieben"
+    },
+    "4656": {
+        "district": "Kreuzlingen",
+        "name": "G\u00fcttingen"
+    },
+    "4661": {
+        "district": "Kreuzlingen",
+        "name": "Illighausen"
+    },
+    "4662": {
+        "district": "Kreuzlingen",
+        "name": "Oberhofen bei Kreuzlingen"
+    },
+    "4663": {
+        "district": "Kreuzlingen",
+        "name": "Sch\u00f6nenbaumgarten"
+    },
+    "4671": {
+        "district": "Kreuzlingen",
+        "name": "Kreuzlingen"
+    },
+    "4676": {
+        "district": "Kreuzlingen",
+        "name": "D\u00fcnnershaus"
+    },
+    "4677": {
+        "district": "Kreuzlingen",
+        "name": "Herrenhof"
+    },
+    "4678": {
+        "district": "Kreuzlingen",
+        "name": "Langrickenbach"
+    },
+    "4679": {
+        "district": "Kreuzlingen",
+        "name": "Zuben"
+    },
+    "4686": {
+        "district": "Kreuzlingen",
+        "name": "Bottighofen"
+    },
+    "4687": {
+        "district": "Kreuzlingen",
+        "name": "Landschlacht"
+    },
+    "4688": {
+        "district": "Kreuzlingen",
+        "name": "Scherzingen"
+    },
+    "4696": {
+        "district": "Kreuzlingen",
+        "name": "T\u00e4gerwilen"
+    },
+    "4701": {
+        "district": "Kreuzlingen",
+        "name": "Engwilen"
+    },
+    "4702": {
+        "district": "Kreuzlingen",
+        "name": "Lipperswil"
+    },
+    "4703": {
+        "district": "Kreuzlingen",
+        "name": "Sonterswil"
+    },
+    "4704": {
+        "district": "Kreuzlingen",
+        "name": "W\u00e4ldi"
+    },
+    "4711": {
+        "district": "M\u00fcnchwilen",
+        "name": "Affeltrangen"
+    },
+    "4712": {
+        "district": "M\u00fcnchwilen",
+        "name": "Buch bei M\u00e4rwil"
+    },
+    "4713": {
+        "district": "M\u00fcnchwilen",
+        "name": "M\u00e4rwil"
+    },
+    "4714": {
+        "district": "M\u00fcnchwilen",
+        "name": "Zezikon"
+    },
+    "4721": {
+        "district": "M\u00fcnchwilen",
+        "name": "Balterswil"
+    },
+    "4722": {
+        "district": "M\u00fcnchwilen",
+        "name": "Bichelsee"
+    },
+    "4726": {
+        "district": "M\u00fcnchwilen",
+        "name": "Fischingen"
+    },
+    "4736": {
+        "district": "M\u00fcnchwilen",
+        "name": "Bettwiesen"
+    },
+    "4737": {
+        "district": "M\u00fcnchwilen",
+        "name": "Kalth\u00e4usern"
+    },
+    "4738": {
+        "district": "M\u00fcnchwilen",
+        "name": "Lommis"
+    },
+    "4739": {
+        "district": "M\u00fcnchwilen",
+        "name": "Weingarten"
+    },
+    "4740": {
+        "district": "M\u00fcnchwilen",
+        "name": "Wetzikon (TG)"
+    },
+    "4746": {
+        "district": "M\u00fcnchwilen",
+        "name": "M\u00fcnchwilen (TG)"
+    },
+    "4751": {
+        "district": "M\u00fcnchwilen",
+        "name": "Rickenbach bei Wil"
+    },
+    "4752": {
+        "district": "M\u00fcnchwilen",
+        "name": "Wilen bei Wil"
+    },
+    "4756": {
+        "district": "M\u00fcnchwilen",
+        "name": "Sch\u00f6nholzerswilen"
+    },
+    "4761": {
+        "district": "M\u00fcnchwilen",
+        "name": "Busswil (TG)"
+    },
+    "4762": {
+        "district": "M\u00fcnchwilen",
+        "name": "Eschlikon"
+    },
+    "4763": {
+        "district": "M\u00fcnchwilen",
+        "name": "Horben"
+    },
+    "4764": {
+        "district": "M\u00fcnchwilen",
+        "name": "Sirnach"
+    },
+    "4765": {
+        "district": "M\u00fcnchwilen",
+        "name": "Wallenwil"
+    },
+    "4766": {
+        "district": "M\u00fcnchwilen",
+        "name": "Wiezikon"
+    },
+    "4771": {
+        "district": "M\u00fcnchwilen",
+        "name": "Braunau"
+    },
+    "4772": {
+        "district": "M\u00fcnchwilen",
+        "name": "T\u00e4gerschen"
+    },
+    "4773": {
+        "district": "M\u00fcnchwilen",
+        "name": "Tobel"
+    },
+    "4781": {
+        "district": "M\u00fcnchwilen",
+        "name": "W\u00e4ngi"
+    },
+    "4791": {
+        "district": "M\u00fcnchwilen",
+        "name": "Wuppenau"
+    },
+    "4801": {
+        "district": "Steckborn",
+        "name": "Berlingen"
+    },
+    "4806": {
+        "district": "Steckborn",
+        "name": "Eschenz"
+    },
+    "4811": {
+        "district": "Steckborn",
+        "name": "Herdern"
+    },
+    "4812": {
+        "district": "Steckborn",
+        "name": "Lanzenneunforn"
+    },
+    "4816": {
+        "district": "Steckborn",
+        "name": "Homburg"
+    },
+    "4821": {
+        "district": "Steckborn",
+        "name": "H\u00fcttwilen"
+    },
+    "4822": {
+        "district": "Steckborn",
+        "name": "Nussbaumen"
+    },
+    "4823": {
+        "district": "Steckborn",
+        "name": "Uerschhausen"
+    },
+    "4826": {
+        "district": "Steckborn",
+        "name": "Mammern"
+    },
+    "4831": {
+        "district": "Steckborn",
+        "name": "M\u00fcllheim"
+    },
+    "4836": {
+        "district": "Steckborn",
+        "name": "Dettighofen"
+    },
+    "4837": {
+        "district": "Steckborn",
+        "name": "Pfyn"
+    },
+    "4838": {
+        "district": "Steckborn",
+        "name": "Weiningen (TG)"
+    },
+    "4846": {
+        "district": "Steckborn",
+        "name": "Raperswilen"
+    },
+    "4851": {
+        "district": "Steckborn",
+        "name": "Salenstein"
+    },
+    "4861": {
+        "district": "Steckborn",
+        "name": "G\u00fcndelhart-H\u00f6rhausen"
+    },
+    "4863": {
+        "district": "Steckborn",
+        "name": "Salen-Reutenen"
+    },
+    "4864": {
+        "district": "Steckborn",
+        "name": "Steckborn"
+    },
+    "4871": {
+        "district": "Steckborn",
+        "name": "Kaltenbach"
+    },
+    "4872": {
+        "district": "Steckborn",
+        "name": "Rheinklingen"
+    },
+    "4873": {
+        "district": "Steckborn",
+        "name": "Wagenhausen"
+    },
+    "4881": {
+        "district": "Weinfelden",
+        "name": "Amlikon"
+    },
+    "4882": {
+        "district": "Weinfelden",
+        "name": "Bissegg"
+    },
+    "4883": {
+        "district": "Weinfelden",
+        "name": "Griesenberg"
+    },
+    "4884": {
+        "district": "Weinfelden",
+        "name": "Strohwilen"
+    },
+    "4892": {
+        "district": "Weinfelden",
+        "name": "Berg (TG)"
+    },
+    "4893": {
+        "district": "Weinfelden",
+        "name": "Graltshausen"
+    },
+    "4894": {
+        "district": "Weinfelden",
+        "name": "Mauren"
+    },
+    "4895": {
+        "district": "Weinfelden",
+        "name": "Weerswilen"
+    },
+    "4901": {
+        "district": "Weinfelden",
+        "name": "Andwil (TG)"
+    },
+    "4902": {
+        "district": "Weinfelden",
+        "name": "Birwinken"
+    },
+    "4903": {
+        "district": "Weinfelden",
+        "name": "Guntershausen bei Birwinken"
+    },
+    "4904": {
+        "district": "Weinfelden",
+        "name": "Happerswil-Buch"
+    },
+    "4905": {
+        "district": "Weinfelden",
+        "name": "Klarsreuti"
+    },
+    "4906": {
+        "district": "Weinfelden",
+        "name": "Mattwil"
+    },
+    "4911": {
+        "district": "Weinfelden",
+        "name": "B\u00fcrglen (TG)"
+    },
+    "4912": {
+        "district": "Weinfelden",
+        "name": "Donzhausen"
+    },
+    "4913": {
+        "district": "Weinfelden",
+        "name": "Hessenreuti"
+    },
+    "4914": {
+        "district": "Weinfelden",
+        "name": "Leimbach (TG)"
+    },
+    "4915": {
+        "district": "Weinfelden",
+        "name": "Opfershofen (TG)"
+    },
+    "4921": {
+        "district": "Weinfelden",
+        "name": "Bussnang"
+    },
+    "4922": {
+        "district": "Weinfelden",
+        "name": "Friltschen"
+    },
+    "4923": {
+        "district": "Weinfelden",
+        "name": "Istighofen"
+    },
+    "4924": {
+        "district": "Weinfelden",
+        "name": "Lanterswil"
+    },
+    "4925": {
+        "district": "Weinfelden",
+        "name": "Mettlen"
+    },
+    "4926": {
+        "district": "Weinfelden",
+        "name": "Oberbussnang"
+    },
+    "4927": {
+        "district": "Weinfelden",
+        "name": "Oppikon"
+    },
+    "4928": {
+        "district": "Weinfelden",
+        "name": "Reuti"
+    },
+    "4929": {
+        "district": "Weinfelden",
+        "name": "Rothenhausen"
+    },
+    "4936": {
+        "district": "Weinfelden",
+        "name": "Dotnacht"
+    },
+    "4937": {
+        "district": "Weinfelden",
+        "name": "Hugelshofen"
+    },
+    "4941": {
+        "district": "Weinfelden",
+        "name": "M\u00e4rstetten"
+    },
+    "4946": {
+        "district": "Weinfelden",
+        "name": "Weinfelden"
+    },
+    "4951": {
+        "district": "Weinfelden",
+        "name": "Bonau"
+    },
+    "4952": {
+        "district": "Weinfelden",
+        "name": "Engwang"
+    },
+    "4953": {
+        "district": "Weinfelden",
+        "name": "Illhart"
+    },
+    "4954": {
+        "district": "Weinfelden",
+        "name": "Wigoltingen"
+    }
 }

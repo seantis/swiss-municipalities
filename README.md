@@ -24,9 +24,10 @@ found on the website mentioned at the beginning of this readme.
 
 ### Municipalities by Year/Canton/Id (BFS-Nummer)
 
-The `by_year.py` python script provides the full municipality name keyed by the
-id/BFS-Nummer. It provides separate files by year and canton as well as one
-large file with all years and all cantons.
+The `by_year.py` python script provides the full municipality name as well as
+the district - if available - keyed by the id/BFS-Nummer. It provides separate
+files by year and canton as well as one large file with all years and all
+cantons.
 
 To generate the latest data run `python by_year.py`. Note that this script
 requires Python 3.4+.

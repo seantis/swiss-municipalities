@@ -1,8 +1,26 @@
 {
-    "3101": "Appenzell",
-    "3102": "Gonten",
-    "3103": "R\u00fcte",
-    "3104": "Schlatt-Haslen",
-    "3105": "Schwende",
-    "3111": "Oberegg"
+    "3101": {
+        "district": "Innerer Landesteil",
+        "name": "Appenzell"
+    },
+    "3102": {
+        "district": "Innerer Landesteil",
+        "name": "Gonten"
+    },
+    "3103": {
+        "district": "Innerer Landesteil",
+        "name": "R\u00fcte"
+    },
+    "3104": {
+        "district": "Innerer Landesteil",
+        "name": "Schlatt-Haslen"
+    },
+    "3105": {
+        "district": "Innerer Landesteil",
+        "name": "Schwende"
+    },
+    "3111": {
+        "district": "Aeusserer Landesteil",
+        "name": "Oberegg"
+    }
 }

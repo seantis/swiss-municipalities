@@ -1,231 +1,918 @@
 {
-    "4001": "Aarau",
-    "4002": "Biberstein",
-    "4003": "Buchs (AG)",
-    "4004": "Densb\u00fcren",
-    "4005": "Erlinsbach (AG)",
-    "4006": "Gr\u00e4nichen",
-    "4007": "Hirschthal",
-    "4008": "K\u00fcttigen",
-    "4009": "Muhen",
-    "4010": "Oberentfelden",
-    "4011": "Rohr (AG)",
-    "4012": "Suhr",
-    "4013": "Unterentfelden",
-    "4021": "Baden",
-    "4022": "Bellikon",
-    "4023": "Bergdietikon",
-    "4024": "Birmenstorf (AG)",
-    "4026": "Ennetbaden",
-    "4027": "Fislisbach",
-    "4028": "Freienwil",
-    "4029": "Gebenstorf",
-    "4030": "Killwangen",
-    "4031": "K\u00fcnten",
-    "4032": "M\u00e4genwil",
-    "4033": "Mellingen",
-    "4034": "Neuenhof",
-    "4035": "Niederrohrdorf",
-    "4037": "Oberrohrdorf",
-    "4038": "Obersiggenthal",
-    "4039": "Remetschwil",
-    "4040": "Spreitenbach",
-    "4041": "Stetten (AG)",
-    "4042": "Turgi",
-    "4044": "Untersiggenthal",
-    "4045": "Wettingen",
-    "4046": "Wohlenschwil",
-    "4047": "W\u00fcrenlingen",
-    "4048": "W\u00fcrenlos",
-    "4049": "Ehrendingen",
-    "4061": "Arni (AG)",
-    "4062": "Berikon",
-    "4063": "Bremgarten (AG)",
-    "4064": "B\u00fcttikon",
-    "4065": "Dottikon",
-    "4066": "Eggenwil",
-    "4067": "Fischbach-G\u00f6slikon",
-    "4068": "H\u00e4gglingen",
-    "4069": "Hermetschwil-Staffeln",
-    "4070": "Hilfikon",
-    "4071": "Jonen",
-    "4072": "Niederwil (AG)",
-    "4073": "Oberlunkhofen",
-    "4074": "Oberwil-Lieli",
-    "4075": "Rudolfstetten-Friedlisberg",
-    "4076": "Sarmenstorf",
-    "4077": "T\u00e4gerig",
-    "4078": "Uezwil",
-    "4079": "Unterlunkhofen",
-    "4080": "Villmergen",
-    "4081": "Widen",
-    "4082": "Wohlen (AG)",
-    "4083": "Zufikon",
-    "4084": "Islisberg",
-    "4091": "Auenstein",
-    "4092": "Birr",
-    "4093": "Birrhard",
-    "4094": "B\u00f6zen",
-    "4095": "Brugg",
-    "4096": "Effingen",
-    "4097": "Elfingen",
-    "4098": "Gallenkirch",
-    "4099": "Habsburg",
-    "4100": "Hausen (AG)",
-    "4101": "Hottwil",
-    "4103": "Linn",
-    "4104": "Lupfig",
-    "4105": "Mandach",
-    "4106": "M\u00f6nthal",
-    "4107": "M\u00fclligen",
-    "4108": "Oberb\u00f6zberg",
-    "4109": "Oberflachs",
-    "4110": "Remigen",
-    "4111": "Riniken",
-    "4112": "R\u00fcfenach",
-    "4113": "Scherz",
-    "4114": "Schinznach-Bad",
-    "4115": "Schinznach-Dorf",
-    "4117": "Thalheim (AG)",
-    "4118": "Umiken",
-    "4119": "Unterb\u00f6zberg",
-    "4120": "Veltheim (AG)",
-    "4121": "Villigen",
-    "4122": "Villnachern",
-    "4123": "Windisch",
-    "4131": "Beinwil am See",
-    "4132": "Birrwil",
-    "4133": "Burg (AG)",
-    "4134": "D\u00fcrren\u00e4sch",
-    "4135": "Gontenschwil",
-    "4136": "Holziken",
-    "4137": "Leimbach (AG)",
-    "4138": "Leutwil",
-    "4139": "Menziken",
-    "4140": "Oberkulm",
-    "4141": "Reinach (AG)",
-    "4142": "Schlossrued",
-    "4143": "Schmiedrued",
-    "4144": "Sch\u00f6ftland",
-    "4145": "Teufenthal (AG)",
-    "4146": "Unterkulm",
-    "4147": "Zetzwil",
-    "4161": "Eiken",
-    "4162": "Etzgen",
-    "4163": "Frick",
-    "4164": "Gansingen",
-    "4165": "Gipf-Oberfrick",
-    "4166": "Herznach",
-    "4167": "Hornussen",
-    "4168": "Ittenthal",
-    "4169": "Kaisten",
-    "4170": "Laufenburg",
-    "4171": "Mettau",
-    "4172": "M\u00fcnchwilen (AG)",
-    "4173": "Oberhof",
-    "4174": "Oberhofen (AG)",
-    "4175": "Oeschgen",
-    "4176": "Schwaderloch",
-    "4177": "Sisseln",
-    "4178": "Sulz (AG)",
-    "4179": "Ueken",
-    "4180": "Wil (AG)",
-    "4181": "Wittnau",
-    "4182": "W\u00f6lflinswil",
-    "4183": "Zeihen",
-    "4191": "Ammerswil",
-    "4192": "Boniswil",
-    "4193": "Brunegg",
-    "4194": "Dintikon",
-    "4195": "Egliswil",
-    "4196": "Fahrwangen",
-    "4197": "Hallwil",
-    "4198": "Hendschiken",
-    "4199": "Holderbank (AG)",
-    "4200": "Hunzenschwil",
-    "4201": "Lenzburg",
-    "4202": "Meisterschwanden",
-    "4203": "M\u00f6riken-Wildegg",
-    "4204": "Niederlenz",
-    "4205": "Othmarsingen",
-    "4206": "Rupperswil",
-    "4207": "Schafisheim",
-    "4208": "Seengen",
-    "4209": "Seon",
-    "4210": "Staufen",
-    "4221": "Abtwil",
-    "4222": "Aristau",
-    "4223": "Auw",
-    "4224": "Beinwil (Freiamt)",
-    "4225": "Benzenschwil",
-    "4226": "Besenb\u00fcren",
-    "4227": "Bettwil",
-    "4228": "Boswil",
-    "4229": "B\u00fcnzen",
-    "4230": "Buttwil",
-    "4231": "Dietwil",
-    "4232": "Geltwil",
-    "4233": "Kallern",
-    "4234": "Merenschwand",
-    "4235": "M\u00fchlau",
-    "4236": "Muri (AG)",
-    "4237": "Oberr\u00fcti",
-    "4238": "Rottenschwil",
-    "4239": "Sins",
-    "4240": "Waltenschwil",
-    "4251": "Hellikon",
-    "4252": "Kaiseraugst",
-    "4253": "Magden",
-    "4254": "M\u00f6hlin",
-    "4255": "Mumpf",
-    "4256": "Obermumpf",
-    "4257": "Olsberg",
-    "4258": "Rheinfelden",
-    "4259": "Schupfart",
-    "4260": "Stein (AG)",
-    "4261": "Wallbach",
-    "4262": "Wegenstetten",
-    "4263": "Zeiningen",
-    "4264": "Zuzgen",
-    "4271": "Aarburg",
-    "4272": "Attelwil",
-    "4273": "Bottenwil",
-    "4274": "Brittnau",
-    "4275": "Kirchleerau",
-    "4276": "K\u00f6lliken",
-    "4277": "Moosleerau",
-    "4279": "Murgenthal",
-    "4280": "Oftringen",
-    "4281": "Reitnau",
-    "4282": "Rothrist",
-    "4283": "Safenwil",
-    "4284": "Staffelbach",
-    "4285": "Strengelbach",
-    "4286": "Uerkheim",
-    "4287": "Vordemwald",
-    "4288": "Wiliberg",
-    "4289": "Zofingen",
-    "4301": "Baldingen",
-    "4302": "B\u00f6bikon",
-    "4303": "B\u00f6ttstein",
-    "4304": "D\u00f6ttingen",
-    "4305": "Endingen",
-    "4306": "Fisibach",
-    "4307": "Full-Reuenthal",
-    "4308": "Kaiserstuhl",
-    "4309": "Klingnau",
-    "4310": "Koblenz",
-    "4311": "Leibstadt",
-    "4312": "Lengnau (AG)",
-    "4313": "Leuggern",
-    "4314": "Mellikon",
-    "4315": "Rekingen (AG)",
-    "4316": "Rietheim",
-    "4317": "R\u00fcmikon",
-    "4318": "Schneisingen",
-    "4319": "Siglistorf",
-    "4320": "Tegerfelden",
-    "4321": "Unterendingen",
-    "4322": "Wislikofen",
-    "4323": "Bad Zurzach"
+    "4001": {
+        "district": "Aarau",
+        "name": "Aarau"
+    },
+    "4002": {
+        "district": "Aarau",
+        "name": "Biberstein"
+    },
+    "4003": {
+        "district": "Aarau",
+        "name": "Buchs (AG)"
+    },
+    "4004": {
+        "district": "Aarau",
+        "name": "Densb\u00fcren"
+    },
+    "4005": {
+        "district": "Aarau",
+        "name": "Erlinsbach (AG)"
+    },
+    "4006": {
+        "district": "Aarau",
+        "name": "Gr\u00e4nichen"
+    },
+    "4007": {
+        "district": "Aarau",
+        "name": "Hirschthal"
+    },
+    "4008": {
+        "district": "Aarau",
+        "name": "K\u00fcttigen"
+    },
+    "4009": {
+        "district": "Aarau",
+        "name": "Muhen"
+    },
+    "4010": {
+        "district": "Aarau",
+        "name": "Oberentfelden"
+    },
+    "4011": {
+        "district": "Aarau",
+        "name": "Rohr (AG)"
+    },
+    "4012": {
+        "district": "Aarau",
+        "name": "Suhr"
+    },
+    "4013": {
+        "district": "Aarau",
+        "name": "Unterentfelden"
+    },
+    "4021": {
+        "district": "Baden",
+        "name": "Baden"
+    },
+    "4022": {
+        "district": "Baden",
+        "name": "Bellikon"
+    },
+    "4023": {
+        "district": "Baden",
+        "name": "Bergdietikon"
+    },
+    "4024": {
+        "district": "Baden",
+        "name": "Birmenstorf (AG)"
+    },
+    "4026": {
+        "district": "Baden",
+        "name": "Ennetbaden"
+    },
+    "4027": {
+        "district": "Baden",
+        "name": "Fislisbach"
+    },
+    "4028": {
+        "district": "Baden",
+        "name": "Freienwil"
+    },
+    "4029": {
+        "district": "Baden",
+        "name": "Gebenstorf"
+    },
+    "4030": {
+        "district": "Baden",
+        "name": "Killwangen"
+    },
+    "4031": {
+        "district": "Baden",
+        "name": "K\u00fcnten"
+    },
+    "4032": {
+        "district": "Baden",
+        "name": "M\u00e4genwil"
+    },
+    "4033": {
+        "district": "Baden",
+        "name": "Mellingen"
+    },
+    "4034": {
+        "district": "Baden",
+        "name": "Neuenhof"
+    },
+    "4035": {
+        "district": "Baden",
+        "name": "Niederrohrdorf"
+    },
+    "4037": {
+        "district": "Baden",
+        "name": "Oberrohrdorf"
+    },
+    "4038": {
+        "district": "Baden",
+        "name": "Obersiggenthal"
+    },
+    "4039": {
+        "district": "Baden",
+        "name": "Remetschwil"
+    },
+    "4040": {
+        "district": "Baden",
+        "name": "Spreitenbach"
+    },
+    "4041": {
+        "district": "Baden",
+        "name": "Stetten (AG)"
+    },
+    "4042": {
+        "district": "Baden",
+        "name": "Turgi"
+    },
+    "4044": {
+        "district": "Baden",
+        "name": "Untersiggenthal"
+    },
+    "4045": {
+        "district": "Baden",
+        "name": "Wettingen"
+    },
+    "4046": {
+        "district": "Baden",
+        "name": "Wohlenschwil"
+    },
+    "4047": {
+        "district": "Baden",
+        "name": "W\u00fcrenlingen"
+    },
+    "4048": {
+        "district": "Baden",
+        "name": "W\u00fcrenlos"
+    },
+    "4049": {
+        "district": "Baden",
+        "name": "Ehrendingen"
+    },
+    "4061": {
+        "district": "Bremgarten",
+        "name": "Arni (AG)"
+    },
+    "4062": {
+        "district": "Bremgarten",
+        "name": "Berikon"
+    },
+    "4063": {
+        "district": "Bremgarten",
+        "name": "Bremgarten (AG)"
+    },
+    "4064": {
+        "district": "Bremgarten",
+        "name": "B\u00fcttikon"
+    },
+    "4065": {
+        "district": "Bremgarten",
+        "name": "Dottikon"
+    },
+    "4066": {
+        "district": "Bremgarten",
+        "name": "Eggenwil"
+    },
+    "4067": {
+        "district": "Bremgarten",
+        "name": "Fischbach-G\u00f6slikon"
+    },
+    "4068": {
+        "district": "Bremgarten",
+        "name": "H\u00e4gglingen"
+    },
+    "4069": {
+        "district": "Bremgarten",
+        "name": "Hermetschwil-Staffeln"
+    },
+    "4070": {
+        "district": "Bremgarten",
+        "name": "Hilfikon"
+    },
+    "4071": {
+        "district": "Bremgarten",
+        "name": "Jonen"
+    },
+    "4072": {
+        "district": "Bremgarten",
+        "name": "Niederwil (AG)"
+    },
+    "4073": {
+        "district": "Bremgarten",
+        "name": "Oberlunkhofen"
+    },
+    "4074": {
+        "district": "Bremgarten",
+        "name": "Oberwil-Lieli"
+    },
+    "4075": {
+        "district": "Bremgarten",
+        "name": "Rudolfstetten-Friedlisberg"
+    },
+    "4076": {
+        "district": "Bremgarten",
+        "name": "Sarmenstorf"
+    },
+    "4077": {
+        "district": "Bremgarten",
+        "name": "T\u00e4gerig"
+    },
+    "4078": {
+        "district": "Bremgarten",
+        "name": "Uezwil"
+    },
+    "4079": {
+        "district": "Bremgarten",
+        "name": "Unterlunkhofen"
+    },
+    "4080": {
+        "district": "Bremgarten",
+        "name": "Villmergen"
+    },
+    "4081": {
+        "district": "Bremgarten",
+        "name": "Widen"
+    },
+    "4082": {
+        "district": "Bremgarten",
+        "name": "Wohlen (AG)"
+    },
+    "4083": {
+        "district": "Bremgarten",
+        "name": "Zufikon"
+    },
+    "4084": {
+        "district": "Bremgarten",
+        "name": "Islisberg"
+    },
+    "4091": {
+        "district": "Brugg",
+        "name": "Auenstein"
+    },
+    "4092": {
+        "district": "Brugg",
+        "name": "Birr"
+    },
+    "4093": {
+        "district": "Brugg",
+        "name": "Birrhard"
+    },
+    "4094": {
+        "district": "Brugg",
+        "name": "B\u00f6zen"
+    },
+    "4095": {
+        "district": "Brugg",
+        "name": "Brugg"
+    },
+    "4096": {
+        "district": "Brugg",
+        "name": "Effingen"
+    },
+    "4097": {
+        "district": "Brugg",
+        "name": "Elfingen"
+    },
+    "4098": {
+        "district": "Brugg",
+        "name": "Gallenkirch"
+    },
+    "4099": {
+        "district": "Brugg",
+        "name": "Habsburg"
+    },
+    "4100": {
+        "district": "Brugg",
+        "name": "Hausen (AG)"
+    },
+    "4101": {
+        "district": "Brugg",
+        "name": "Hottwil"
+    },
+    "4103": {
+        "district": "Brugg",
+        "name": "Linn"
+    },
+    "4104": {
+        "district": "Brugg",
+        "name": "Lupfig"
+    },
+    "4105": {
+        "district": "Brugg",
+        "name": "Mandach"
+    },
+    "4106": {
+        "district": "Brugg",
+        "name": "M\u00f6nthal"
+    },
+    "4107": {
+        "district": "Brugg",
+        "name": "M\u00fclligen"
+    },
+    "4108": {
+        "district": "Brugg",
+        "name": "Oberb\u00f6zberg"
+    },
+    "4109": {
+        "district": "Brugg",
+        "name": "Oberflachs"
+    },
+    "4110": {
+        "district": "Brugg",
+        "name": "Remigen"
+    },
+    "4111": {
+        "district": "Brugg",
+        "name": "Riniken"
+    },
+    "4112": {
+        "district": "Brugg",
+        "name": "R\u00fcfenach"
+    },
+    "4113": {
+        "district": "Brugg",
+        "name": "Scherz"
+    },
+    "4114": {
+        "district": "Brugg",
+        "name": "Schinznach-Bad"
+    },
+    "4115": {
+        "district": "Brugg",
+        "name": "Schinznach-Dorf"
+    },
+    "4117": {
+        "district": "Brugg",
+        "name": "Thalheim (AG)"
+    },
+    "4118": {
+        "district": "Brugg",
+        "name": "Umiken"
+    },
+    "4119": {
+        "district": "Brugg",
+        "name": "Unterb\u00f6zberg"
+    },
+    "4120": {
+        "district": "Brugg",
+        "name": "Veltheim (AG)"
+    },
+    "4121": {
+        "district": "Brugg",
+        "name": "Villigen"
+    },
+    "4122": {
+        "district": "Brugg",
+        "name": "Villnachern"
+    },
+    "4123": {
+        "district": "Brugg",
+        "name": "Windisch"
+    },
+    "4131": {
+        "district": "Kulm",
+        "name": "Beinwil am See"
+    },
+    "4132": {
+        "district": "Kulm",
+        "name": "Birrwil"
+    },
+    "4133": {
+        "district": "Kulm",
+        "name": "Burg (AG)"
+    },
+    "4134": {
+        "district": "Kulm",
+        "name": "D\u00fcrren\u00e4sch"
+    },
+    "4135": {
+        "district": "Kulm",
+        "name": "Gontenschwil"
+    },
+    "4136": {
+        "district": "Kulm",
+        "name": "Holziken"
+    },
+    "4137": {
+        "district": "Kulm",
+        "name": "Leimbach (AG)"
+    },
+    "4138": {
+        "district": "Kulm",
+        "name": "Leutwil"
+    },
+    "4139": {
+        "district": "Kulm",
+        "name": "Menziken"
+    },
+    "4140": {
+        "district": "Kulm",
+        "name": "Oberkulm"
+    },
+    "4141": {
+        "district": "Kulm",
+        "name": "Reinach (AG)"
+    },
+    "4142": {
+        "district": "Kulm",
+        "name": "Schlossrued"
+    },
+    "4143": {
+        "district": "Kulm",
+        "name": "Schmiedrued"
+    },
+    "4144": {
+        "district": "Kulm",
+        "name": "Sch\u00f6ftland"
+    },
+    "4145": {
+        "district": "Kulm",
+        "name": "Teufenthal (AG)"
+    },
+    "4146": {
+        "district": "Kulm",
+        "name": "Unterkulm"
+    },
+    "4147": {
+        "district": "Kulm",
+        "name": "Zetzwil"
+    },
+    "4161": {
+        "district": "Laufenburg",
+        "name": "Eiken"
+    },
+    "4162": {
+        "district": "Laufenburg",
+        "name": "Etzgen"
+    },
+    "4163": {
+        "district": "Laufenburg",
+        "name": "Frick"
+    },
+    "4164": {
+        "district": "Laufenburg",
+        "name": "Gansingen"
+    },
+    "4165": {
+        "district": "Laufenburg",
+        "name": "Gipf-Oberfrick"
+    },
+    "4166": {
+        "district": "Laufenburg",
+        "name": "Herznach"
+    },
+    "4167": {
+        "district": "Laufenburg",
+        "name": "Hornussen"
+    },
+    "4168": {
+        "district": "Laufenburg",
+        "name": "Ittenthal"
+    },
+    "4169": {
+        "district": "Laufenburg",
+        "name": "Kaisten"
+    },
+    "4170": {
+        "district": "Laufenburg",
+        "name": "Laufenburg"
+    },
+    "4171": {
+        "district": "Laufenburg",
+        "name": "Mettau"
+    },
+    "4172": {
+        "district": "Laufenburg",
+        "name": "M\u00fcnchwilen (AG)"
+    },
+    "4173": {
+        "district": "Laufenburg",
+        "name": "Oberhof"
+    },
+    "4174": {
+        "district": "Laufenburg",
+        "name": "Oberhofen (AG)"
+    },
+    "4175": {
+        "district": "Laufenburg",
+        "name": "Oeschgen"
+    },
+    "4176": {
+        "district": "Laufenburg",
+        "name": "Schwaderloch"
+    },
+    "4177": {
+        "district": "Laufenburg",
+        "name": "Sisseln"
+    },
+    "4178": {
+        "district": "Laufenburg",
+        "name": "Sulz (AG)"
+    },
+    "4179": {
+        "district": "Laufenburg",
+        "name": "Ueken"
+    },
+    "4180": {
+        "district": "Laufenburg",
+        "name": "Wil (AG)"
+    },
+    "4181": {
+        "district": "Laufenburg",
+        "name": "Wittnau"
+    },
+    "4182": {
+        "district": "Laufenburg",
+        "name": "W\u00f6lflinswil"
+    },
+    "4183": {
+        "district": "Laufenburg",
+        "name": "Zeihen"
+    },
+    "4191": {
+        "district": "Lenzburg",
+        "name": "Ammerswil"
+    },
+    "4192": {
+        "district": "Lenzburg",
+        "name": "Boniswil"
+    },
+    "4193": {
+        "district": "Lenzburg",
+        "name": "Brunegg"
+    },
+    "4194": {
+        "district": "Lenzburg",
+        "name": "Dintikon"
+    },
+    "4195": {
+        "district": "Lenzburg",
+        "name": "Egliswil"
+    },
+    "4196": {
+        "district": "Lenzburg",
+        "name": "Fahrwangen"
+    },
+    "4197": {
+        "district": "Lenzburg",
+        "name": "Hallwil"
+    },
+    "4198": {
+        "district": "Lenzburg",
+        "name": "Hendschiken"
+    },
+    "4199": {
+        "district": "Lenzburg",
+        "name": "Holderbank (AG)"
+    },
+    "4200": {
+        "district": "Lenzburg",
+        "name": "Hunzenschwil"
+    },
+    "4201": {
+        "district": "Lenzburg",
+        "name": "Lenzburg"
+    },
+    "4202": {
+        "district": "Lenzburg",
+        "name": "Meisterschwanden"
+    },
+    "4203": {
+        "district": "Lenzburg",
+        "name": "M\u00f6riken-Wildegg"
+    },
+    "4204": {
+        "district": "Lenzburg",
+        "name": "Niederlenz"
+    },
+    "4205": {
+        "district": "Lenzburg",
+        "name": "Othmarsingen"
+    },
+    "4206": {
+        "district": "Lenzburg",
+        "name": "Rupperswil"
+    },
+    "4207": {
+        "district": "Lenzburg",
+        "name": "Schafisheim"
+    },
+    "4208": {
+        "district": "Lenzburg",
+        "name": "Seengen"
+    },
+    "4209": {
+        "district": "Lenzburg",
+        "name": "Seon"
+    },
+    "4210": {
+        "district": "Lenzburg",
+        "name": "Staufen"
+    },
+    "4221": {
+        "district": "Muri",
+        "name": "Abtwil"
+    },
+    "4222": {
+        "district": "Muri",
+        "name": "Aristau"
+    },
+    "4223": {
+        "district": "Muri",
+        "name": "Auw"
+    },
+    "4224": {
+        "district": "Muri",
+        "name": "Beinwil (Freiamt)"
+    },
+    "4225": {
+        "district": "Muri",
+        "name": "Benzenschwil"
+    },
+    "4226": {
+        "district": "Muri",
+        "name": "Besenb\u00fcren"
+    },
+    "4227": {
+        "district": "Muri",
+        "name": "Bettwil"
+    },
+    "4228": {
+        "district": "Muri",
+        "name": "Boswil"
+    },
+    "4229": {
+        "district": "Muri",
+        "name": "B\u00fcnzen"
+    },
+    "4230": {
+        "district": "Muri",
+        "name": "Buttwil"
+    },
+    "4231": {
+        "district": "Muri",
+        "name": "Dietwil"
+    },
+    "4232": {
+        "district": "Muri",
+        "name": "Geltwil"
+    },
+    "4233": {
+        "district": "Muri",
+        "name": "Kallern"
+    },
+    "4234": {
+        "district": "Muri",
+        "name": "Merenschwand"
+    },
+    "4235": {
+        "district": "Muri",
+        "name": "M\u00fchlau"
+    },
+    "4236": {
+        "district": "Muri",
+        "name": "Muri (AG)"
+    },
+    "4237": {
+        "district": "Muri",
+        "name": "Oberr\u00fcti"
+    },
+    "4238": {
+        "district": "Muri",
+        "name": "Rottenschwil"
+    },
+    "4239": {
+        "district": "Muri",
+        "name": "Sins"
+    },
+    "4240": {
+        "district": "Muri",
+        "name": "Waltenschwil"
+    },
+    "4251": {
+        "district": "Rheinfelden",
+        "name": "Hellikon"
+    },
+    "4252": {
+        "district": "Rheinfelden",
+        "name": "Kaiseraugst"
+    },
+    "4253": {
+        "district": "Rheinfelden",
+        "name": "Magden"
+    },
+    "4254": {
+        "district": "Rheinfelden",
+        "name": "M\u00f6hlin"
+    },
+    "4255": {
+        "district": "Rheinfelden",
+        "name": "Mumpf"
+    },
+    "4256": {
+        "district": "Rheinfelden",
+        "name": "Obermumpf"
+    },
+    "4257": {
+        "district": "Rheinfelden",
+        "name": "Olsberg"
+    },
+    "4258": {
+        "district": "Rheinfelden",
+        "name": "Rheinfelden"
+    },
+    "4259": {
+        "district": "Rheinfelden",
+        "name": "Schupfart"
+    },
+    "4260": {
+        "district": "Rheinfelden",
+        "name": "Stein (AG)"
+    },
+    "4261": {
+        "district": "Rheinfelden",
+        "name": "Wallbach"
+    },
+    "4262": {
+        "district": "Rheinfelden",
+        "name": "Wegenstetten"
+    },
+    "4263": {
+        "district": "Rheinfelden",
+        "name": "Zeiningen"
+    },
+    "4264": {
+        "district": "Rheinfelden",
+        "name": "Zuzgen"
+    },
+    "4271": {
+        "district": "Zofingen",
+        "name": "Aarburg"
+    },
+    "4272": {
+        "district": "Zofingen",
+        "name": "Attelwil"
+    },
+    "4273": {
+        "district": "Zofingen",
+        "name": "Bottenwil"
+    },
+    "4274": {
+        "district": "Zofingen",
+        "name": "Brittnau"
+    },
+    "4275": {
+        "district": "Zofingen",
+        "name": "Kirchleerau"
+    },
+    "4276": {
+        "district": "Zofingen",
+        "name": "K\u00f6lliken"
+    },
+    "4277": {
+        "district": "Zofingen",
+        "name": "Moosleerau"
+    },
+    "4279": {
+        "district": "Zofingen",
+        "name": "Murgenthal"
+    },
+    "4280": {
+        "district": "Zofingen",
+        "name": "Oftringen"
+    },
+    "4281": {
+        "district": "Zofingen",
+        "name": "Reitnau"
+    },
+    "4282": {
+        "district": "Zofingen",
+        "name": "Rothrist"
+    },
+    "4283": {
+        "district": "Zofingen",
+        "name": "Safenwil"
+    },
+    "4284": {
+        "district": "Zofingen",
+        "name": "Staffelbach"
+    },
+    "4285": {
+        "district": "Zofingen",
+        "name": "Strengelbach"
+    },
+    "4286": {
+        "district": "Zofingen",
+        "name": "Uerkheim"
+    },
+    "4287": {
+        "district": "Zofingen",
+        "name": "Vordemwald"
+    },
+    "4288": {
+        "district": "Zofingen",
+        "name": "Wiliberg"
+    },
+    "4289": {
+        "district": "Zofingen",
+        "name": "Zofingen"
+    },
+    "4301": {
+        "district": "Zurzach",
+        "name": "Baldingen"
+    },
+    "4302": {
+        "district": "Zurzach",
+        "name": "B\u00f6bikon"
+    },
+    "4303": {
+        "district": "Zurzach",
+        "name": "B\u00f6ttstein"
+    },
+    "4304": {
+        "district": "Zurzach",
+        "name": "D\u00f6ttingen"
+    },
+    "4305": {
+        "district": "Zurzach",
+        "name": "Endingen"
+    },
+    "4306": {
+        "district": "Zurzach",
+        "name": "Fisibach"
+    },
+    "4307": {
+        "district": "Zurzach",
+        "name": "Full-Reuenthal"
+    },
+    "4308": {
+        "district": "Zurzach",
+        "name": "Kaiserstuhl"
+    },
+    "4309": {
+        "district": "Zurzach",
+        "name": "Klingnau"
+    },
+    "4310": {
+        "district": "Zurzach",
+        "name": "Koblenz"
+    },
+    "4311": {
+        "district": "Zurzach",
+        "name": "Leibstadt"
+    },
+    "4312": {
+        "district": "Zurzach",
+        "name": "Lengnau (AG)"
+    },
+    "4313": {
+        "district": "Zurzach",
+        "name": "Leuggern"
+    },
+    "4314": {
+        "district": "Zurzach",
+        "name": "Mellikon"
+    },
+    "4315": {
+        "district": "Zurzach",
+        "name": "Rekingen (AG)"
+    },
+    "4316": {
+        "district": "Zurzach",
+        "name": "Rietheim"
+    },
+    "4317": {
+        "district": "Zurzach",
+        "name": "R\u00fcmikon"
+    },
+    "4318": {
+        "district": "Zurzach",
+        "name": "Schneisingen"
+    },
+    "4319": {
+        "district": "Zurzach",
+        "name": "Siglistorf"
+    },
+    "4320": {
+        "district": "Zurzach",
+        "name": "Tegerfelden"
+    },
+    "4321": {
+        "district": "Zurzach",
+        "name": "Unterendingen"
+    },
+    "4322": {
+        "district": "Zurzach",
+        "name": "Wislikofen"
+    },
+    "4323": {
+        "district": "Zurzach",
+        "name": "Bad Zurzach"
+    }
 }

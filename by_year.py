@@ -20,16 +20,38 @@ def open_xml_file():
     return zipfile.open(xml)
 
 
-def municipalities(filters):
-    root = ET.parse(open_xml_file())
+def filter_path(root, path, filters=None):
+    filters = filters or tuple()
 
-    for municipality in root.findall("./municipalities/municipality"):
+    for el in root.findall(path):
 
         for filter in filters:
-            if not filter(municipality):
+            if not filter(el):
                 break
         else:
-            yield municipality
+            yield el
+
+
+def districts_by_year_and_id(root, years):
+    districts = filter_path(root, './districts/district', (
+        # only actual districts
+        lambda el: el.find('districtEntryMode').text == '15',
+    ))
+
+    by_year_and_id = {year: defaultdict(dict) for year in years}
+
+    for district in districts:
+        id = int(district.find('districtHistId').text)
+        name = district.find('districtShortName').text
+
+        start = as_date(district.find('districtAdmissionDate').text)
+        end = district.find('districtAbolitionDate')
+        end = as_date(end.text) if end is not None else date.today()
+
+        for year in range(start.year, end.year + 1):
+            by_year_and_id[(year, id)] = name
+
+    return by_year_and_id
 
 
 def as_date(text):
@@ -42,18 +64,23 @@ def build_years():
 
     by_year = {year: defaultdict(dict) for year in years}
 
-    filters = [
+    root = ET.parse(open_xml_file())
+
+    municipalities = filter_path(root, './municipalities/municipality', (
         # only finalized entries
         lambda el: el.find('municipalityStatus').text == '1',
 
         # only towns (not lakes or other)
         lambda el: el.find('municipalityEntryMode').text == '11'
-    ]
+    ))
 
-    for municipality in municipalities(filters):
+    districts = districts_by_year_and_id(root, years)
+
+    for municipality in municipalities:
         id = int(municipality.find('municipalityId').text)
         canton = municipality.find('cantonAbbreviation').text.lower()
         name = municipality.find('municipalityLongName').text
+        district_id = int(municipality.find('districtHistId').text)
 
         start = as_date(municipality.find('municipalityAdmissionDate').text)
         end = municipality.find('municipalityAbolitionDate')
@@ -61,12 +88,17 @@ def build_years():
 
         for year in range(start.year, end.year + 1):
             # newer entries will replace older entries in a few instances:
-            # * there's a district change (no consequence for us)
-            # * there's a geopgrahical change (dito)
+            # * there's a geopgrahical change (no consequence for us)
             # * there's a new town/merger/secession in the middle of the year
             #   in which case we just take the latest record of the year
             #   (there are only a handful cases where this happened)
-            by_year[year][canton][id] = name
+            # * there's a district change in the middle of the year, in which
+            #   case we also just use the latest record of the year
+            by_year[year][canton][id] = {'name': name}
+
+            district = districts.get((year, district_id))
+            if district:
+                by_year[year][canton][id]['district'] = district
 
     basepath = Path.cwd() / 'by_year'
     outputs = {

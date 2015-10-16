@@ -1,286 +1,1138 @@
 {
-    "2001": "Aumont",
-    "2002": "Autavaux",
-    "2003": "Bollion",
-    "2004": "Bussy (FR)",
-    "2005": "Ch\u00e2bles",
-    "2006": "Chandon",
-    "2007": "Chapelle (Broye)",
-    "2008": "Ch\u00e2tillon (FR)",
-    "2009": "Cheiry",
-    "2010": "Cheyres",
-    "2011": "Cugy (FR)",
-    "2012": "Delley",
-    "2013": "Domdidier",
-    "2014": "Dompierre (FR)",
-    "2015": "Estavayer-le-Lac",
-    "2016": "F\u00e9tigny",
-    "2017": "Font",
-    "2018": "Forel (FR)",
-    "2019": "Franex",
-    "2020": "Frasses",
-    "2021": "Les Friques",
-    "2022": "Gletterens",
-    "2023": "Granges-de-Vesin",
-    "2024": "L\u00e9chelles",
-    "2025": "Lully (FR)",
-    "2026": "Mannens-Grandsivaz",
-    "2027": "M\u00e9ni\u00e8res",
-    "2028": "Montagny-la-Ville",
-    "2029": "Montagny-les-Monts",
-    "2030": "Montborget",
-    "2031": "Montbrelloz",
-    "2032": "Montet (Broye)",
-    "2033": "Morens (FR)",
-    "2034": "Murist",
-    "2035": "Nuvilly",
-    "2036": "Portalban",
-    "2037": "Praratoud",
-    "2038": "Pr\u00e9vondavaux",
-    "2039": "Rueyres-les-Pr\u00e9s",
-    "2040": "Russy",
-    "2041": "Saint-Aubin (FR)",
-    "2042": "Seiry",
-    "2043": "S\u00e9vaz",
-    "2044": "Surpierre",
-    "2045": "Vallon",
-    "2046": "Vesin",
-    "2047": "Villeneuve (FR)",
-    "2048": "La Vounaise",
-    "2049": "Vuissens",
-    "2061": "Auboranges",
-    "2062": "Berlens",
-    "2063": "Billens",
-    "2064": "Bionnens",
-    "2065": "Blessens",
-    "2066": "Chapelle (Gl\u00e2ne)",
-    "2067": "Le Ch\u00e2telard",
-    "2068": "Ch\u00e2tonnaye",
-    "2069": "Chavannes-les-Forts",
-    "2070": "Chavannes-sous-Orsonnens",
-    "2071": "Les Ecasseys",
-    "2072": "Ecublens (FR)",
-    "2073": "Eschiens",
-    "2074": "Esmonts",
-    "2075": "Est\u00e9venens",
-    "2076": "Fuyens",
-    "2077": "Gillarens",
-    "2078": "Les Gl\u00e2nes",
-    "2079": "Grangettes",
-    "2080": "Hennens",
-    "2081": "La Joux (FR)",
-    "2082": "Lieffrens",
-    "2083": "Lussy (FR)",
-    "2084": "Macconnens",
-    "2085": "La Magne",
-    "2086": "Massonnens",
-    "2087": "M\u00e9zi\u00e8res (FR)",
-    "2088": "Middes",
-    "2089": "Montet (Gl\u00e2ne)",
-    "2090": "Morlens",
-    "2091": "Mossel",
-    "2092": "La Neirigue",
-    "2093": "Orsonnens",
-    "2094": "Prez-vers-Siviriez",
-    "2095": "Promasens",
-    "2096": "Romont (FR)",
-    "2097": "Rue",
-    "2098": "Le Saulgy",
-    "2099": "Siviriez",
-    "2100": "Sommentier",
-    "2101": "Torny-le-Grand",
-    "2102": "Ursy",
-    "2103": "Vauderens",
-    "2104": "Villangeaux",
-    "2105": "Villaraboud",
-    "2106": "Villaranon",
-    "2107": "Villargiroud",
-    "2108": "Villariaz",
-    "2109": "Villarimboud",
-    "2110": "Villarsiviriaux",
-    "2111": "Villaz-Saint-Pierre",
-    "2112": "Vuarmarens",
-    "2113": "Vuisternens-devant-Romont",
-    "2121": "Albeuve",
-    "2122": "Avry-devant-Pont",
-    "2123": "Botterens",
-    "2124": "Broc",
-    "2125": "Bulle",
-    "2126": "Cerniat (FR)",
-    "2127": "Charmey",
-    "2128": "Ch\u00e2tel-sur-Montsalvens",
-    "2129": "Corbi\u00e8res",
-    "2130": "Cr\u00e9suz",
-    "2131": "Echarlens",
-    "2132": "Enney",
-    "2133": "Estavannens",
-    "2134": "Grandvillard",
-    "2135": "Gruy\u00e8res",
-    "2136": "Gumefens",
-    "2137": "Hauteville",
-    "2138": "Jaun",
-    "2139": "Lessoc",
-    "2140": "Marsens",
-    "2141": "Maules",
-    "2142": "Montbovon",
-    "2143": "Morlon",
-    "2144": "Neirivue",
-    "2145": "Le P\u00e2quier (FR)",
-    "2146": "Pont-en-Ogoz",
-    "2147": "Pont-la-Ville",
-    "2148": "Riaz",
-    "2149": "La Roche",
-    "2150": "Romanens",
-    "2151": "Rueyres-Treyfayes",
-    "2152": "S\u00e2les (Gruy\u00e8re)",
-    "2153": "Sorens",
-    "2154": "La Tour-de-Tr\u00eame",
-    "2155": "Vaulruz",
-    "2156": "Villarbeney",
-    "2157": "Villars-d'Avry",
-    "2158": "Villars-sous-Mont",
-    "2159": "Villarvolard",
-    "2160": "Vuadens",
-    "2161": "Vuippens",
-    "2171": "Arconciel",
-    "2172": "Autafond",
-    "2173": "Autigny",
-    "2174": "Avry-sur-Matran",
-    "2175": "Belfaux",
-    "2176": "Bonnefontaine",
-    "2177": "Ch\u00e9nens",
-    "2178": "Ch\u00e9salles",
-    "2179": "Ch\u00e9sopelloz",
-    "2180": "La Corbaz",
-    "2181": "Corjolens",
-    "2182": "Cormagens",
-    "2183": "Corminboeuf",
-    "2184": "Corpataux",
-    "2185": "Corserey",
-    "2186": "Cottens (FR)",
-    "2187": "Cutterwil",
-    "2188": "Ecuvillens",
-    "2189": "Ependes (FR)",
-    "2190": "Essert (FR)",
-    "2191": "Estavayer-le-Gibloux",
-    "2192": "Farvagny-le-Grand",
-    "2193": "Farvagny-le-Petit",
-    "2194": "Ferpicloz",
-    "2195": "Formangueires",
-    "2196": "Fribourg",
-    "2197": "Givisiez",
-    "2198": "Granges-Paccot",
-    "2199": "Grenilles",
-    "2200": "Grolley",
-    "2201": "Illens",
-    "2202": "Lentigny",
-    "2203": "Lossy",
-    "2204": "Lovens",
-    "2205": "Magnedens",
-    "2206": "Marly-le-Grand",
-    "2207": "Marly-le-Petit",
-    "2208": "Matran",
-    "2209": "Mont\u00e9cu",
-    "2210": "Mont\u00e9vraz",
-    "2211": "Neyruz (FR)",
-    "2212": "Nierlet-les-Bois",
-    "2213": "Nor\u00e9az",
-    "2214": "Oberried (FR)",
-    "2215": "Onnens (FR)",
-    "2216": "Pierrafortscha",
-    "2217": "Ponthaux",
-    "2218": "Posat",
-    "2219": "Posieux",
-    "2220": "Praroman",
-    "2221": "Prez-vers-Nor\u00e9az",
-    "2222": "Rossens (FR)",
-    "2223": "Rueyres-Saint-Laurent",
-    "2224": "Sales (Sarine)",
-    "2225": "Sen\u00e8des",
-    "2226": "Treyvaux",
-    "2227": "Villarlod",
-    "2228": "Villars-sur-Gl\u00e2ne",
-    "2229": "Villarsel-le-Gibloux",
-    "2230": "Villarsel-sur-Marly",
-    "2231": "Vuisternens-en-Ogoz",
-    "2232": "Z\u00e9nauva",
-    "2241": "Agriswil",
-    "2242": "Altavilla",
-    "2243": "Barber\u00eache",
-    "2244": "B\u00fcchslen",
-    "2245": "Burg bei Murten",
-    "2246": "Chandossel",
-    "2247": "Cordast",
-    "2248": "Corm\u00e9rod",
-    "2249": "Corsalettes",
-    "2250": "Courgevaux",
-    "2251": "Courlevon",
-    "2252": "Cournillens",
-    "2253": "Courtaman",
-    "2254": "Courtepin",
-    "2255": "Courtion",
-    "2256": "Coussiberl\u00e9",
-    "2257": "Cressier (FR)",
-    "2258": "Fr\u00e4schels",
-    "2259": "Galmiz",
-    "2260": "Gempenach",
-    "2261": "Greng",
-    "2262": "Grossgurmels",
-    "2263": "Grossguschelmuth",
-    "2264": "Jeuss",
-    "2265": "Kerzers",
-    "2266": "Kleinb\u00f6singen",
-    "2267": "Kleingurmels",
-    "2268": "Kleinguschelmuth",
-    "2269": "Liebistorf",
-    "2270": "Lurtigen",
-    "2271": "Meyriez",
-    "2272": "Misery",
-    "2273": "Monterschu",
-    "2274": "Muntelier",
-    "2275": "Murten",
-    "2276": "Ried bei Kerzers",
-    "2277": "Salvenach",
-    "2278": "Ulmiz",
-    "2279": "Villarepos",
-    "2280": "Vully-le-Bas",
-    "2281": "Vully-le-Haut",
-    "2282": "Wallenbuch",
-    "2283": "Wallenried",
-    "2291": "Alterswil",
-    "2292": "Br\u00fcnisried",
-    "2293": "D\u00fcdingen",
-    "2294": "Giffers",
-    "2295": "B\u00f6singen",
-    "2296": "Heitenried",
-    "2297": "Neuhaus",
-    "2298": "Oberschrot",
-    "2299": "Plaffeien",
-    "2300": "Plasselb",
-    "2301": "Rechthalten",
-    "2302": "St. Antoni",
-    "2303": "St. Silvester",
-    "2304": "St. Ursen",
-    "2305": "Schmitten (FR)",
-    "2306": "Tafers",
-    "2307": "Tentlingen",
-    "2308": "Ueberstorf",
-    "2309": "W\u00fcnnewil",
-    "2310": "Zumholz",
-    "2321": "Attalens",
-    "2322": "Besencens",
-    "2323": "Bossonnens",
-    "2324": "Bouloz",
-    "2325": "Ch\u00e2tel-Saint-Denis",
-    "2326": "Le Cr\u00eat",
-    "2327": "Fiaug\u00e8res",
-    "2328": "Granges (Veveyse)",
-    "2329": "Grattavache",
-    "2330": "Pont (Veveyse)",
-    "2331": "Porsel",
-    "2332": "Progens",
-    "2333": "Remaufens",
-    "2334": "La Roug\u00e8ve",
-    "2335": "Saint-Martin (FR)",
-    "2336": "Semsales"
+    "2001": {
+        "district": "La Broye",
+        "name": "Aumont"
+    },
+    "2002": {
+        "district": "La Broye",
+        "name": "Autavaux"
+    },
+    "2003": {
+        "district": "La Broye",
+        "name": "Bollion"
+    },
+    "2004": {
+        "district": "La Broye",
+        "name": "Bussy (FR)"
+    },
+    "2005": {
+        "district": "La Broye",
+        "name": "Ch\u00e2bles"
+    },
+    "2006": {
+        "district": "La Broye",
+        "name": "Chandon"
+    },
+    "2007": {
+        "district": "La Broye",
+        "name": "Chapelle (Broye)"
+    },
+    "2008": {
+        "district": "La Broye",
+        "name": "Ch\u00e2tillon (FR)"
+    },
+    "2009": {
+        "district": "La Broye",
+        "name": "Cheiry"
+    },
+    "2010": {
+        "district": "La Broye",
+        "name": "Cheyres"
+    },
+    "2011": {
+        "district": "La Broye",
+        "name": "Cugy (FR)"
+    },
+    "2012": {
+        "district": "La Broye",
+        "name": "Delley"
+    },
+    "2013": {
+        "district": "La Broye",
+        "name": "Domdidier"
+    },
+    "2014": {
+        "district": "La Broye",
+        "name": "Dompierre (FR)"
+    },
+    "2015": {
+        "district": "La Broye",
+        "name": "Estavayer-le-Lac"
+    },
+    "2016": {
+        "district": "La Broye",
+        "name": "F\u00e9tigny"
+    },
+    "2017": {
+        "district": "La Broye",
+        "name": "Font"
+    },
+    "2018": {
+        "district": "La Broye",
+        "name": "Forel (FR)"
+    },
+    "2019": {
+        "district": "La Broye",
+        "name": "Franex"
+    },
+    "2020": {
+        "district": "La Broye",
+        "name": "Frasses"
+    },
+    "2021": {
+        "district": "La Broye",
+        "name": "Les Friques"
+    },
+    "2022": {
+        "district": "La Broye",
+        "name": "Gletterens"
+    },
+    "2023": {
+        "district": "La Broye",
+        "name": "Granges-de-Vesin"
+    },
+    "2024": {
+        "district": "La Broye",
+        "name": "L\u00e9chelles"
+    },
+    "2025": {
+        "district": "La Broye",
+        "name": "Lully (FR)"
+    },
+    "2026": {
+        "district": "La Broye",
+        "name": "Mannens-Grandsivaz"
+    },
+    "2027": {
+        "district": "La Broye",
+        "name": "M\u00e9ni\u00e8res"
+    },
+    "2028": {
+        "district": "La Broye",
+        "name": "Montagny-la-Ville"
+    },
+    "2029": {
+        "district": "La Broye",
+        "name": "Montagny-les-Monts"
+    },
+    "2030": {
+        "district": "La Broye",
+        "name": "Montborget"
+    },
+    "2031": {
+        "district": "La Broye",
+        "name": "Montbrelloz"
+    },
+    "2032": {
+        "district": "La Broye",
+        "name": "Montet (Broye)"
+    },
+    "2033": {
+        "district": "La Broye",
+        "name": "Morens (FR)"
+    },
+    "2034": {
+        "district": "La Broye",
+        "name": "Murist"
+    },
+    "2035": {
+        "district": "La Broye",
+        "name": "Nuvilly"
+    },
+    "2036": {
+        "district": "La Broye",
+        "name": "Portalban"
+    },
+    "2037": {
+        "district": "La Broye",
+        "name": "Praratoud"
+    },
+    "2038": {
+        "district": "La Broye",
+        "name": "Pr\u00e9vondavaux"
+    },
+    "2039": {
+        "district": "La Broye",
+        "name": "Rueyres-les-Pr\u00e9s"
+    },
+    "2040": {
+        "district": "La Broye",
+        "name": "Russy"
+    },
+    "2041": {
+        "district": "La Broye",
+        "name": "Saint-Aubin (FR)"
+    },
+    "2042": {
+        "district": "La Broye",
+        "name": "Seiry"
+    },
+    "2043": {
+        "district": "La Broye",
+        "name": "S\u00e9vaz"
+    },
+    "2044": {
+        "district": "La Broye",
+        "name": "Surpierre"
+    },
+    "2045": {
+        "district": "La Broye",
+        "name": "Vallon"
+    },
+    "2046": {
+        "district": "La Broye",
+        "name": "Vesin"
+    },
+    "2047": {
+        "district": "La Broye",
+        "name": "Villeneuve (FR)"
+    },
+    "2048": {
+        "district": "La Broye",
+        "name": "La Vounaise"
+    },
+    "2049": {
+        "district": "La Broye",
+        "name": "Vuissens"
+    },
+    "2061": {
+        "district": "La Gl\u00e2ne",
+        "name": "Auboranges"
+    },
+    "2062": {
+        "district": "La Gl\u00e2ne",
+        "name": "Berlens"
+    },
+    "2063": {
+        "district": "La Gl\u00e2ne",
+        "name": "Billens"
+    },
+    "2064": {
+        "district": "La Gl\u00e2ne",
+        "name": "Bionnens"
+    },
+    "2065": {
+        "district": "La Gl\u00e2ne",
+        "name": "Blessens"
+    },
+    "2066": {
+        "district": "La Gl\u00e2ne",
+        "name": "Chapelle (Gl\u00e2ne)"
+    },
+    "2067": {
+        "district": "La Gl\u00e2ne",
+        "name": "Le Ch\u00e2telard"
+    },
+    "2068": {
+        "district": "La Gl\u00e2ne",
+        "name": "Ch\u00e2tonnaye"
+    },
+    "2069": {
+        "district": "La Gl\u00e2ne",
+        "name": "Chavannes-les-Forts"
+    },
+    "2070": {
+        "district": "La Gl\u00e2ne",
+        "name": "Chavannes-sous-Orsonnens"
+    },
+    "2071": {
+        "district": "La Gl\u00e2ne",
+        "name": "Les Ecasseys"
+    },
+    "2072": {
+        "district": "La Gl\u00e2ne",
+        "name": "Ecublens (FR)"
+    },
+    "2073": {
+        "district": "La Gl\u00e2ne",
+        "name": "Eschiens"
+    },
+    "2074": {
+        "district": "La Gl\u00e2ne",
+        "name": "Esmonts"
+    },
+    "2075": {
+        "district": "La Gl\u00e2ne",
+        "name": "Est\u00e9venens"
+    },
+    "2076": {
+        "district": "La Gl\u00e2ne",
+        "name": "Fuyens"
+    },
+    "2077": {
+        "district": "La Gl\u00e2ne",
+        "name": "Gillarens"
+    },
+    "2078": {
+        "district": "La Gl\u00e2ne",
+        "name": "Les Gl\u00e2nes"
+    },
+    "2079": {
+        "district": "La Gl\u00e2ne",
+        "name": "Grangettes"
+    },
+    "2080": {
+        "district": "La Gl\u00e2ne",
+        "name": "Hennens"
+    },
+    "2081": {
+        "district": "La Gl\u00e2ne",
+        "name": "La Joux (FR)"
+    },
+    "2082": {
+        "district": "La Gl\u00e2ne",
+        "name": "Lieffrens"
+    },
+    "2083": {
+        "district": "La Gl\u00e2ne",
+        "name": "Lussy (FR)"
+    },
+    "2084": {
+        "district": "La Gl\u00e2ne",
+        "name": "Macconnens"
+    },
+    "2085": {
+        "district": "La Gl\u00e2ne",
+        "name": "La Magne"
+    },
+    "2086": {
+        "district": "La Gl\u00e2ne",
+        "name": "Massonnens"
+    },
+    "2087": {
+        "district": "La Gl\u00e2ne",
+        "name": "M\u00e9zi\u00e8res (FR)"
+    },
+    "2088": {
+        "district": "La Gl\u00e2ne",
+        "name": "Middes"
+    },
+    "2089": {
+        "district": "La Gl\u00e2ne",
+        "name": "Montet (Gl\u00e2ne)"
+    },
+    "2090": {
+        "district": "La Gl\u00e2ne",
+        "name": "Morlens"
+    },
+    "2091": {
+        "district": "La Gl\u00e2ne",
+        "name": "Mossel"
+    },
+    "2092": {
+        "district": "La Gl\u00e2ne",
+        "name": "La Neirigue"
+    },
+    "2093": {
+        "district": "La Gl\u00e2ne",
+        "name": "Orsonnens"
+    },
+    "2094": {
+        "district": "La Gl\u00e2ne",
+        "name": "Prez-vers-Siviriez"
+    },
+    "2095": {
+        "district": "La Gl\u00e2ne",
+        "name": "Promasens"
+    },
+    "2096": {
+        "district": "La Gl\u00e2ne",
+        "name": "Romont (FR)"
+    },
+    "2097": {
+        "district": "La Gl\u00e2ne",
+        "name": "Rue"
+    },
+    "2098": {
+        "district": "La Gl\u00e2ne",
+        "name": "Le Saulgy"
+    },
+    "2099": {
+        "district": "La Gl\u00e2ne",
+        "name": "Siviriez"
+    },
+    "2100": {
+        "district": "La Gl\u00e2ne",
+        "name": "Sommentier"
+    },
+    "2101": {
+        "district": "La Gl\u00e2ne",
+        "name": "Torny-le-Grand"
+    },
+    "2102": {
+        "district": "La Gl\u00e2ne",
+        "name": "Ursy"
+    },
+    "2103": {
+        "district": "La Gl\u00e2ne",
+        "name": "Vauderens"
+    },
+    "2104": {
+        "district": "La Gl\u00e2ne",
+        "name": "Villangeaux"
+    },
+    "2105": {
+        "district": "La Gl\u00e2ne",
+        "name": "Villaraboud"
+    },
+    "2106": {
+        "district": "La Gl\u00e2ne",
+        "name": "Villaranon"
+    },
+    "2107": {
+        "district": "La Gl\u00e2ne",
+        "name": "Villargiroud"
+    },
+    "2108": {
+        "district": "La Gl\u00e2ne",
+        "name": "Villariaz"
+    },
+    "2109": {
+        "district": "La Gl\u00e2ne",
+        "name": "Villarimboud"
+    },
+    "2110": {
+        "district": "La Gl\u00e2ne",
+        "name": "Villarsiviriaux"
+    },
+    "2111": {
+        "district": "La Gl\u00e2ne",
+        "name": "Villaz-Saint-Pierre"
+    },
+    "2112": {
+        "district": "La Gl\u00e2ne",
+        "name": "Vuarmarens"
+    },
+    "2113": {
+        "district": "La Gl\u00e2ne",
+        "name": "Vuisternens-devant-Romont"
+    },
+    "2121": {
+        "district": "La Gruy\u00e8re",
+        "name": "Albeuve"
+    },
+    "2122": {
+        "district": "La Gruy\u00e8re",
+        "name": "Avry-devant-Pont"
+    },
+    "2123": {
+        "district": "La Gruy\u00e8re",
+        "name": "Botterens"
+    },
+    "2124": {
+        "district": "La Gruy\u00e8re",
+        "name": "Broc"
+    },
+    "2125": {
+        "district": "La Gruy\u00e8re",
+        "name": "Bulle"
+    },
+    "2126": {
+        "district": "La Gruy\u00e8re",
+        "name": "Cerniat (FR)"
+    },
+    "2127": {
+        "district": "La Gruy\u00e8re",
+        "name": "Charmey"
+    },
+    "2128": {
+        "district": "La Gruy\u00e8re",
+        "name": "Ch\u00e2tel-sur-Montsalvens"
+    },
+    "2129": {
+        "district": "La Gruy\u00e8re",
+        "name": "Corbi\u00e8res"
+    },
+    "2130": {
+        "district": "La Gruy\u00e8re",
+        "name": "Cr\u00e9suz"
+    },
+    "2131": {
+        "district": "La Gruy\u00e8re",
+        "name": "Echarlens"
+    },
+    "2132": {
+        "district": "La Gruy\u00e8re",
+        "name": "Enney"
+    },
+    "2133": {
+        "district": "La Gruy\u00e8re",
+        "name": "Estavannens"
+    },
+    "2134": {
+        "district": "La Gruy\u00e8re",
+        "name": "Grandvillard"
+    },
+    "2135": {
+        "district": "La Gruy\u00e8re",
+        "name": "Gruy\u00e8res"
+    },
+    "2136": {
+        "district": "La Gruy\u00e8re",
+        "name": "Gumefens"
+    },
+    "2137": {
+        "district": "La Gruy\u00e8re",
+        "name": "Hauteville"
+    },
+    "2138": {
+        "district": "La Gruy\u00e8re",
+        "name": "Jaun"
+    },
+    "2139": {
+        "district": "La Gruy\u00e8re",
+        "name": "Lessoc"
+    },
+    "2140": {
+        "district": "La Gruy\u00e8re",
+        "name": "Marsens"
+    },
+    "2141": {
+        "district": "La Gruy\u00e8re",
+        "name": "Maules"
+    },
+    "2142": {
+        "district": "La Gruy\u00e8re",
+        "name": "Montbovon"
+    },
+    "2143": {
+        "district": "La Gruy\u00e8re",
+        "name": "Morlon"
+    },
+    "2144": {
+        "district": "La Gruy\u00e8re",
+        "name": "Neirivue"
+    },
+    "2145": {
+        "district": "La Gruy\u00e8re",
+        "name": "Le P\u00e2quier (FR)"
+    },
+    "2146": {
+        "district": "La Gruy\u00e8re",
+        "name": "Pont-en-Ogoz"
+    },
+    "2147": {
+        "district": "La Gruy\u00e8re",
+        "name": "Pont-la-Ville"
+    },
+    "2148": {
+        "district": "La Gruy\u00e8re",
+        "name": "Riaz"
+    },
+    "2149": {
+        "district": "La Gruy\u00e8re",
+        "name": "La Roche"
+    },
+    "2150": {
+        "district": "La Gruy\u00e8re",
+        "name": "Romanens"
+    },
+    "2151": {
+        "district": "La Gruy\u00e8re",
+        "name": "Rueyres-Treyfayes"
+    },
+    "2152": {
+        "district": "La Gruy\u00e8re",
+        "name": "S\u00e2les (Gruy\u00e8re)"
+    },
+    "2153": {
+        "district": "La Gruy\u00e8re",
+        "name": "Sorens"
+    },
+    "2154": {
+        "district": "La Gruy\u00e8re",
+        "name": "La Tour-de-Tr\u00eame"
+    },
+    "2155": {
+        "district": "La Gruy\u00e8re",
+        "name": "Vaulruz"
+    },
+    "2156": {
+        "district": "La Gruy\u00e8re",
+        "name": "Villarbeney"
+    },
+    "2157": {
+        "district": "La Gruy\u00e8re",
+        "name": "Villars-d'Avry"
+    },
+    "2158": {
+        "district": "La Gruy\u00e8re",
+        "name": "Villars-sous-Mont"
+    },
+    "2159": {
+        "district": "La Gruy\u00e8re",
+        "name": "Villarvolard"
+    },
+    "2160": {
+        "district": "La Gruy\u00e8re",
+        "name": "Vuadens"
+    },
+    "2161": {
+        "district": "La Gruy\u00e8re",
+        "name": "Vuippens"
+    },
+    "2171": {
+        "district": "La Sarine",
+        "name": "Arconciel"
+    },
+    "2172": {
+        "district": "La Sarine",
+        "name": "Autafond"
+    },
+    "2173": {
+        "district": "La Sarine",
+        "name": "Autigny"
+    },
+    "2174": {
+        "district": "La Sarine",
+        "name": "Avry-sur-Matran"
+    },
+    "2175": {
+        "district": "La Sarine",
+        "name": "Belfaux"
+    },
+    "2176": {
+        "district": "La Sarine",
+        "name": "Bonnefontaine"
+    },
+    "2177": {
+        "district": "La Sarine",
+        "name": "Ch\u00e9nens"
+    },
+    "2178": {
+        "district": "La Sarine",
+        "name": "Ch\u00e9salles"
+    },
+    "2179": {
+        "district": "La Sarine",
+        "name": "Ch\u00e9sopelloz"
+    },
+    "2180": {
+        "district": "La Sarine",
+        "name": "La Corbaz"
+    },
+    "2181": {
+        "district": "La Sarine",
+        "name": "Corjolens"
+    },
+    "2182": {
+        "district": "La Sarine",
+        "name": "Cormagens"
+    },
+    "2183": {
+        "district": "La Sarine",
+        "name": "Corminboeuf"
+    },
+    "2184": {
+        "district": "La Sarine",
+        "name": "Corpataux"
+    },
+    "2185": {
+        "district": "La Sarine",
+        "name": "Corserey"
+    },
+    "2186": {
+        "district": "La Sarine",
+        "name": "Cottens (FR)"
+    },
+    "2187": {
+        "district": "La Sarine",
+        "name": "Cutterwil"
+    },
+    "2188": {
+        "district": "La Sarine",
+        "name": "Ecuvillens"
+    },
+    "2189": {
+        "district": "La Sarine",
+        "name": "Ependes (FR)"
+    },
+    "2190": {
+        "district": "La Sarine",
+        "name": "Essert (FR)"
+    },
+    "2191": {
+        "district": "La Sarine",
+        "name": "Estavayer-le-Gibloux"
+    },
+    "2192": {
+        "district": "La Sarine",
+        "name": "Farvagny-le-Grand"
+    },
+    "2193": {
+        "district": "La Sarine",
+        "name": "Farvagny-le-Petit"
+    },
+    "2194": {
+        "district": "La Sarine",
+        "name": "Ferpicloz"
+    },
+    "2195": {
+        "district": "La Sarine",
+        "name": "Formangueires"
+    },
+    "2196": {
+        "district": "La Sarine",
+        "name": "Fribourg"
+    },
+    "2197": {
+        "district": "La Sarine",
+        "name": "Givisiez"
+    },
+    "2198": {
+        "district": "La Sarine",
+        "name": "Granges-Paccot"
+    },
+    "2199": {
+        "district": "La Sarine",
+        "name": "Grenilles"
+    },
+    "2200": {
+        "district": "La Sarine",
+        "name": "Grolley"
+    },
+    "2201": {
+        "district": "La Sarine",
+        "name": "Illens"
+    },
+    "2202": {
+        "district": "La Sarine",
+        "name": "Lentigny"
+    },
+    "2203": {
+        "district": "La Sarine",
+        "name": "Lossy"
+    },
+    "2204": {
+        "district": "La Sarine",
+        "name": "Lovens"
+    },
+    "2205": {
+        "district": "La Sarine",
+        "name": "Magnedens"
+    },
+    "2206": {
+        "district": "La Sarine",
+        "name": "Marly-le-Grand"
+    },
+    "2207": {
+        "district": "La Sarine",
+        "name": "Marly-le-Petit"
+    },
+    "2208": {
+        "district": "La Sarine",
+        "name": "Matran"
+    },
+    "2209": {
+        "district": "La Sarine",
+        "name": "Mont\u00e9cu"
+    },
+    "2210": {
+        "district": "La Sarine",
+        "name": "Mont\u00e9vraz"
+    },
+    "2211": {
+        "district": "La Sarine",
+        "name": "Neyruz (FR)"
+    },
+    "2212": {
+        "district": "La Sarine",
+        "name": "Nierlet-les-Bois"
+    },
+    "2213": {
+        "district": "La Sarine",
+        "name": "Nor\u00e9az"
+    },
+    "2214": {
+        "district": "La Sarine",
+        "name": "Oberried (FR)"
+    },
+    "2215": {
+        "district": "La Sarine",
+        "name": "Onnens (FR)"
+    },
+    "2216": {
+        "district": "La Sarine",
+        "name": "Pierrafortscha"
+    },
+    "2217": {
+        "district": "La Sarine",
+        "name": "Ponthaux"
+    },
+    "2218": {
+        "district": "La Sarine",
+        "name": "Posat"
+    },
+    "2219": {
+        "district": "La Sarine",
+        "name": "Posieux"
+    },
+    "2220": {
+        "district": "La Sarine",
+        "name": "Praroman"
+    },
+    "2221": {
+        "district": "La Sarine",
+        "name": "Prez-vers-Nor\u00e9az"
+    },
+    "2222": {
+        "district": "La Sarine",
+        "name": "Rossens (FR)"
+    },
+    "2223": {
+        "district": "La Sarine",
+        "name": "Rueyres-Saint-Laurent"
+    },
+    "2224": {
+        "district": "La Sarine",
+        "name": "Sales (Sarine)"
+    },
+    "2225": {
+        "district": "La Sarine",
+        "name": "Sen\u00e8des"
+    },
+    "2226": {
+        "district": "La Sarine",
+        "name": "Treyvaux"
+    },
+    "2227": {
+        "district": "La Sarine",
+        "name": "Villarlod"
+    },
+    "2228": {
+        "district": "La Sarine",
+        "name": "Villars-sur-Gl\u00e2ne"
+    },
+    "2229": {
+        "district": "La Sarine",
+        "name": "Villarsel-le-Gibloux"
+    },
+    "2230": {
+        "district": "La Sarine",
+        "name": "Villarsel-sur-Marly"
+    },
+    "2231": {
+        "district": "La Sarine",
+        "name": "Vuisternens-en-Ogoz"
+    },
+    "2232": {
+        "district": "La Sarine",
+        "name": "Z\u00e9nauva"
+    },
+    "2241": {
+        "district": "See / Lac",
+        "name": "Agriswil"
+    },
+    "2242": {
+        "district": "See / Lac",
+        "name": "Altavilla"
+    },
+    "2243": {
+        "district": "See / Lac",
+        "name": "Barber\u00eache"
+    },
+    "2244": {
+        "district": "See / Lac",
+        "name": "B\u00fcchslen"
+    },
+    "2245": {
+        "district": "See / Lac",
+        "name": "Burg bei Murten"
+    },
+    "2246": {
+        "district": "See / Lac",
+        "name": "Chandossel"
+    },
+    "2247": {
+        "district": "See / Lac",
+        "name": "Cordast"
+    },
+    "2248": {
+        "district": "See / Lac",
+        "name": "Corm\u00e9rod"
+    },
+    "2249": {
+        "district": "See / Lac",
+        "name": "Corsalettes"
+    },
+    "2250": {
+        "district": "See / Lac",
+        "name": "Courgevaux"
+    },
+    "2251": {
+        "district": "See / Lac",
+        "name": "Courlevon"
+    },
+    "2252": {
+        "district": "See / Lac",
+        "name": "Cournillens"
+    },
+    "2253": {
+        "district": "See / Lac",
+        "name": "Courtaman"
+    },
+    "2254": {
+        "district": "See / Lac",
+        "name": "Courtepin"
+    },
+    "2255": {
+        "district": "See / Lac",
+        "name": "Courtion"
+    },
+    "2256": {
+        "district": "See / Lac",
+        "name": "Coussiberl\u00e9"
+    },
+    "2257": {
+        "district": "See / Lac",
+        "name": "Cressier (FR)"
+    },
+    "2258": {
+        "district": "See / Lac",
+        "name": "Fr\u00e4schels"
+    },
+    "2259": {
+        "district": "See / Lac",
+        "name": "Galmiz"
+    },
+    "2260": {
+        "district": "See / Lac",
+        "name": "Gempenach"
+    },
+    "2261": {
+        "district": "See / Lac",
+        "name": "Greng"
+    },
+    "2262": {
+        "district": "See / Lac",
+        "name": "Grossgurmels"
+    },
+    "2263": {
+        "district": "See / Lac",
+        "name": "Grossguschelmuth"
+    },
+    "2264": {
+        "district": "See / Lac",
+        "name": "Jeuss"
+    },
+    "2265": {
+        "district": "See / Lac",
+        "name": "Kerzers"
+    },
+    "2266": {
+        "district": "See / Lac",
+        "name": "Kleinb\u00f6singen"
+    },
+    "2267": {
+        "district": "See / Lac",
+        "name": "Kleingurmels"
+    },
+    "2268": {
+        "district": "See / Lac",
+        "name": "Kleinguschelmuth"
+    },
+    "2269": {
+        "district": "See / Lac",
+        "name": "Liebistorf"
+    },
+    "2270": {
+        "district": "See / Lac",
+        "name": "Lurtigen"
+    },
+    "2271": {
+        "district": "See / Lac",
+        "name": "Meyriez"
+    },
+    "2272": {
+        "district": "See / Lac",
+        "name": "Misery"
+    },
+    "2273": {
+        "district": "See / Lac",
+        "name": "Monterschu"
+    },
+    "2274": {
+        "district": "See / Lac",
+        "name": "Muntelier"
+    },
+    "2275": {
+        "district": "See / Lac",
+        "name": "Murten"
+    },
+    "2276": {
+        "district": "See / Lac",
+        "name": "Ried bei Kerzers"
+    },
+    "2277": {
+        "district": "See / Lac",
+        "name": "Salvenach"
+    },
+    "2278": {
+        "district": "See / Lac",
+        "name": "Ulmiz"
+    },
+    "2279": {
+        "district": "See / Lac",
+        "name": "Villarepos"
+    },
+    "2280": {
+        "district": "See / Lac",
+        "name": "Vully-le-Bas"
+    },
+    "2281": {
+        "district": "See / Lac",
+        "name": "Vully-le-Haut"
+    },
+    "2282": {
+        "district": "See / Lac",
+        "name": "Wallenbuch"
+    },
+    "2283": {
+        "district": "See / Lac",
+        "name": "Wallenried"
+    },
+    "2291": {
+        "district": "Sense",
+        "name": "Alterswil"
+    },
+    "2292": {
+        "district": "Sense",
+        "name": "Br\u00fcnisried"
+    },
+    "2293": {
+        "district": "Sense",
+        "name": "D\u00fcdingen"
+    },
+    "2294": {
+        "district": "Sense",
+        "name": "Giffers"
+    },
+    "2295": {
+        "district": "Sense",
+        "name": "B\u00f6singen"
+    },
+    "2296": {
+        "district": "Sense",
+        "name": "Heitenried"
+    },
+    "2297": {
+        "district": "Sense",
+        "name": "Neuhaus"
+    },
+    "2298": {
+        "district": "Sense",
+        "name": "Oberschrot"
+    },
+    "2299": {
+        "district": "Sense",
+        "name": "Plaffeien"
+    },
+    "2300": {
+        "district": "Sense",
+        "name": "Plasselb"
+    },
+    "2301": {
+        "district": "Sense",
+        "name": "Rechthalten"
+    },
+    "2302": {
+        "district": "Sense",
+        "name": "St. Antoni"
+    },
+    "2303": {
+        "district": "Sense",
+        "name": "St. Silvester"
+    },
+    "2304": {
+        "district": "Sense",
+        "name": "St. Ursen"
+    },
+    "2305": {
+        "district": "Sense",
+        "name": "Schmitten (FR)"
+    },
+    "2306": {
+        "district": "Sense",
+        "name": "Tafers"
+    },
+    "2307": {
+        "district": "Sense",
+        "name": "Tentlingen"
+    },
+    "2308": {
+        "district": "Sense",
+        "name": "Ueberstorf"
+    },
+    "2309": {
+        "district": "Sense",
+        "name": "W\u00fcnnewil"
+    },
+    "2310": {
+        "district": "Sense",
+        "name": "Zumholz"
+    },
+    "2321": {
+        "district": "La Veveyse",
+        "name": "Attalens"
+    },
+    "2322": {
+        "district": "La Veveyse",
+        "name": "Besencens"
+    },
+    "2323": {
+        "district": "La Veveyse",
+        "name": "Bossonnens"
+    },
+    "2324": {
+        "district": "La Veveyse",
+        "name": "Bouloz"
+    },
+    "2325": {
+        "district": "La Veveyse",
+        "name": "Ch\u00e2tel-Saint-Denis"
+    },
+    "2326": {
+        "district": "La Veveyse",
+        "name": "Le Cr\u00eat"
+    },
+    "2327": {
+        "district": "La Veveyse",
+        "name": "Fiaug\u00e8res"
+    },
+    "2328": {
+        "district": "La Veveyse",
+        "name": "Granges (Veveyse)"
+    },
+    "2329": {
+        "district": "La Veveyse",
+        "name": "Grattavache"
+    },
+    "2330": {
+        "district": "La Veveyse",
+        "name": "Pont (Veveyse)"
+    },
+    "2331": {
+        "district": "La Veveyse",
+        "name": "Porsel"
+    },
+    "2332": {
+        "district": "La Veveyse",
+        "name": "Progens"
+    },
+    "2333": {
+        "district": "La Veveyse",
+        "name": "Remaufens"
+    },
+    "2334": {
+        "district": "La Veveyse",
+        "name": "La Roug\u00e8ve"
+    },
+    "2335": {
+        "district": "La Veveyse",
+        "name": "Saint-Martin (FR)"
+    },
+    "2336": {
+        "district": "La Veveyse",
+        "name": "Semsales"
+    }
 }

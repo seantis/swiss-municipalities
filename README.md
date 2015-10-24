@@ -5,7 +5,7 @@ This repository provides useful data around Swiss Municipalities from the
 "Historisiertes Gemeindeverzeichnis" (historical municipalities directory)
 provided by the Swiss government:
 
-[http://www.bfs.admin.ch/bfs/portal/de/index/infothek/nomenklaturen/blank/blank/gem_liste/02.html]()
+[http://www.bfs.admin.ch/bfs/portal/de/index/infothek/nomenklaturen/blank/blank/gem_liste/02.html](http://www.bfs.admin.ch/bfs/portal/de/index/infothek/nomenklaturen/blank/blank/gem_liste/02.html)
 
 As thorough the data provided in said directory is, it's not easy to deal with
 it because it's a information-dense XML file. This repository means to build

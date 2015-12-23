@@ -7,18 +7,11 @@ provided by the Swiss government:
 
 [http://www.bfs.admin.ch/bfs/portal/de/index/infothek/nomenklaturen/blank/blank/gem_liste/02.html](http://www.bfs.admin.ch/bfs/portal/de/index/infothek/nomenklaturen/blank/blank/gem_liste/02.html)
 
-As thorough the data provided in said directory is, it's not easy to deal with
-it because it's a information-dense XML file. This repository means to build
-useful JSON data using said XML.
+The provided data is very thorough but not easy to deal with. It's a pretty
+information-dense XML file. This repository means to build useful JSON data
+using said XML. Data that can be understood without reading a lengthy manual.
 
 So far there's only one resulting output, but there may be more.
-
-## URL
-
-The `URL` file contains the url to the "Historisiertes Gemeindeverzeichnis
-der Schweiz (XML Format)" zip file of the Swiss Governement. This url may
-change over time (especially when new data is released around new year). It is
-found on the website mentioned at the beginning of this readme.
 
 ## Outputs
 
@@ -31,3 +24,10 @@ cantons.
 
 To generate the latest data run `python by_year.py`. Note that this script
 requires Python 3.4+.
+
+## URL
+
+The `URL` file contains the url to the "Historisiertes Gemeindeverzeichnis
+der Schweiz (XML Format)" zip file of the Swiss Governement. This url may
+change over time (especially when new data is released around new year). It is
+found on the website mentioned at the beginning of this readme.

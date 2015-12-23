@@ -39,6 +39,7 @@ def districts_by_year_and_id(root, years):
     ))
 
     by_year_and_id = {year: defaultdict(dict) for year in years}
+    max_year = max(years)
 
     for district in districts:
         id = int(district.find('districtHistId').text)
@@ -46,7 +47,7 @@ def districts_by_year_and_id(root, years):
 
         start = as_date(district.find('districtAdmissionDate').text)
         end = district.find('districtAbolitionDate')
-        end = as_date(end.text) if end is not None else date.today()
+        end = as_date(end.text) if end is not None else date(max_year, 12, 31)
 
         for year in range(start.year, end.year + 1):
             by_year_and_id[(year, id)] = name
@@ -59,12 +60,13 @@ def as_date(text):
 
 
 def build_years():
-    years = set(range(1960, date.today().year + 1))
+    root = ET.parse(open_xml_file())
+    max_year = int(root.find('validFrom').text.split('-')[0])
+
+    years = set(range(1960, max_year + 1))
     print("Building {}-{}".format(min(years), max(years)), end='', flush=True)
 
     by_year = {year: defaultdict(dict) for year in years}
-
-    root = ET.parse(open_xml_file())
 
     municipalities = filter_path(root, './municipalities/municipality', (
         # only finalized entries
@@ -84,7 +86,7 @@ def build_years():
 
         start = as_date(municipality.find('municipalityAdmissionDate').text)
         end = municipality.find('municipalityAbolitionDate')
-        end = as_date(end.text) if end is not None else date.today()
+        end = as_date(end.text) if end is not None else date(max_year, 12, 31)
 
         for year in range(start.year, end.year + 1):
             # newer entries will replace older entries in a few instances:

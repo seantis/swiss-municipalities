@@ -15,7 +15,11 @@ with open('./URL') as f:
 
 
 def open_xml_file():
-    zipfile = ZipFile(BytesIO(urlopen(URL).read()))
+    try:
+        response = urlopen(URL)
+    except Exception:
+        exit('Please update the URL file!')
+    zipfile = ZipFile(BytesIO(response.read()))
     xml = next(name for name in zipfile.namelist() if name.endswith('xml'))
     return zipfile.open(xml)
 
@@ -64,7 +68,9 @@ def build_years():
     max_year = int(root.find('validFrom').text.split('-')[0])
 
     years = set(range(1960, max_year + 1))
-    print("Building {}-{}".format(min(years), max(years)), end='', flush=True)
+    print(
+        "Building {}-{}\n".format(min(years), max(years)), end='', flush=True
+    )
 
     by_year = {year: defaultdict(dict) for year in years}
 
@@ -104,8 +110,8 @@ def build_years():
 
     basepath = Path.cwd() / 'by_year'
     outputs = {
-        '_all.json': lambda year, canton: by_year,
-        '{year}/_all.json': lambda year, canton: by_year[year],
+        # '_all.json': lambda year, canton: by_year,
+        # '{year}/_all.json': lambda year, canton: by_year[year],
         '{year}/{canton}.json': lambda year, canton: by_year[year][canton]
     }
 
@@ -129,6 +135,8 @@ def build_years():
                     json.dump(get(year, canton), f, indent=4, sort_keys=True)
 
                 created.add(path)
+
+    print('\nDone!\n')
 
 
 if __name__ == '__main__':

@@ -1,0 +1,306 @@
+{
+    "since": 2021,
+    "3506": {
+        "region": "Alvaschein"
+    },
+    "3513": {
+        "region": "Belfort"
+    },
+    "3514": {
+        "region": "Belfort"
+    },
+    "3542": {
+        "region": "Alvaschein"
+    },
+    "3543": {
+        "region": "Surses"
+    },
+    "3544": {
+        "region": "Berg\u00fcn"
+    },
+    "3551": {
+        "region": "Brusio"
+    },
+    "3561": {
+        "region": "Poschiavo"
+    },
+    "3572": {
+        "region": "Ilanz"
+    },
+    "3575": {
+        "region": "Ilanz"
+    },
+    "3581": {
+        "region": "Ilanz"
+    },
+    "3582": {
+        "region": "Ilanz"
+    },
+    "3603": {
+        "region": "Lumnezia/Lugnez"
+    },
+    "3618": {
+        "region": "Lumnezia/Lugnez"
+    },
+    "3619": {
+        "region": "Ilanz"
+    },
+    "3633": {
+        "region": "Domleschg"
+    },
+    "3637": {
+        "region": "Domleschg"
+    },
+    "3638": {
+        "region": "Domleschg"
+    },
+    "3640": {
+        "region": "Domleschg"
+    },
+    "3661": {
+        "region": "Thusis"
+    },
+    "3662": {
+        "region": "Thusis"
+    },
+    "3663": {
+        "region": "Thusis"
+    },
+    "3668": {
+        "region": "Thusis"
+    },
+    "3669": {
+        "region": "Thusis"
+    },
+    "3670": {
+        "region": "Thusis"
+    },
+    "3672": {
+        "region": "Safien"
+    },
+    "3673": {
+        "region": "Domleschg"
+    },
+    "3681": {
+        "region": "Avers"
+    },
+    "3695": {
+        "region": "Rheinwald"
+    },
+    "3701": {
+        "region": "Schams"
+    },
+    "3711": {
+        "region": "Schams"
+    },
+    "3712": {
+        "region": "Schams"
+    },
+    "3713": {
+        "region": "Schams"
+    },
+    "3714": {
+        "region": "Rheinwald"
+    },
+    "3715": {
+        "region": "Schams"
+    },
+    "3721": {
+        "region": "Rh\u00e4z\u00fcns"
+    },
+    "3722": {
+        "region": "Rh\u00e4z\u00fcns"
+    },
+    "3723": {
+        "region": "Rh\u00e4z\u00fcns"
+    },
+    "3731": {
+        "region": "Trins"
+    },
+    "3732": {
+        "region": "Trins"
+    },
+    "3733": {
+        "region": "Trins"
+    },
+    "3734": {
+        "region": "Trins"
+    },
+    "3746": {
+        "region": "Sur Tasna"
+    },
+    "3752": {
+        "region": "Ramosch"
+    },
+    "3762": {
+        "region": "Suot Tasna"
+    },
+    "3764": {
+        "region": "Ramosch"
+    },
+    "3781": {
+        "region": "Oberengadin"
+    },
+    "3782": {
+        "region": "Oberengadin"
+    },
+    "3783": {
+        "region": "Oberengadin"
+    },
+    "3784": {
+        "region": "Oberengadin"
+    },
+    "3785": {
+        "region": "Oberengadin"
+    },
+    "3786": {
+        "region": "Oberengadin"
+    },
+    "3787": {
+        "region": "Oberengadin"
+    },
+    "3788": {
+        "region": "Oberengadin"
+    },
+    "3789": {
+        "region": "Oberengadin"
+    },
+    "3790": {
+        "region": "Oberengadin"
+    },
+    "3791": {
+        "region": "Oberengadin"
+    },
+    "3792": {
+        "region": "Bregaglia"
+    },
+    "3804": {
+        "region": "Calanca"
+    },
+    "3805": {
+        "region": "Calanca"
+    },
+    "3808": {
+        "region": "Calanca"
+    },
+    "3810": {
+        "region": "Calanca"
+    },
+    "3821": {
+        "region": "Mesocco"
+    },
+    "3822": {
+        "region": "Mesocco"
+    },
+    "3823": {
+        "region": "Mesocco"
+    },
+    "3831": {
+        "region": "Roveredo"
+    },
+    "3832": {
+        "region": "Roveredo"
+    },
+    "3834": {
+        "region": "Roveredo"
+    },
+    "3835": {
+        "region": "Roveredo"
+    },
+    "3837": {
+        "region": "Calanca"
+    },
+    "3847": {
+        "region": "Val M\u00fcstair"
+    },
+    "3851": {
+        "region": "Davos"
+    },
+    "3861": {
+        "region": "Jenaz"
+    },
+    "3862": {
+        "region": "Jenaz"
+    },
+    "3863": {
+        "region": "Jenaz"
+    },
+    "3871": {
+        "region": "Klosters"
+    },
+    "3881": {
+        "region": "K\u00fcblis"
+    },
+    "3882": {
+        "region": "K\u00fcblis"
+    },
+    "3891": {
+        "region": "Luzein"
+    },
+    "3901": {
+        "region": "Chur"
+    },
+    "3911": {
+        "region": "Churwalden"
+    },
+    "3921": {
+        "region": "Schanfigg"
+    },
+    "3932": {
+        "region": "Churwalden"
+    },
+    "3945": {
+        "region": "F\u00fcnf D\u00f6rfer"
+    },
+    "3946": {
+        "region": "F\u00fcnf D\u00f6rfer"
+    },
+    "3947": {
+        "region": "F\u00fcnf D\u00f6rfer"
+    },
+    "3951": {
+        "region": "Maienfeld"
+    },
+    "3952": {
+        "region": "Maienfeld"
+    },
+    "3953": {
+        "region": "Maienfeld"
+    },
+    "3954": {
+        "region": "Maienfeld"
+    },
+    "3955": {
+        "region": "F\u00fcnf D\u00f6rfer"
+    },
+    "3961": {
+        "region": "Schiers"
+    },
+    "3962": {
+        "region": "Schiers"
+    },
+    "3972": {
+        "region": "Seewis"
+    },
+    "3981": {
+        "region": "Breil/Brigels"
+    },
+    "3982": {
+        "region": "Disentis"
+    },
+    "3983": {
+        "region": "Disentis"
+    },
+    "3985": {
+        "region": "Disentis"
+    },
+    "3986": {
+        "region": "Disentis"
+    },
+    "3987": {
+        "region": "Disentis"
+    },
+    "3988": {
+        "region": "Ilanz"
+    }
+}

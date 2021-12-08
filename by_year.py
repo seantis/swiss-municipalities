@@ -4,6 +4,7 @@ import json
 from collections import defaultdict
 from datetime import date, datetime
 from io import BytesIO
+from json import loads
 from pathlib import Path
 from urllib.request import urlopen
 from xml.etree import ElementTree as ET
@@ -12,6 +13,11 @@ from zipfile import ZipFile
 
 with open('./URL') as f:
     URL = next(f)
+
+EXTENSIONS = {
+    file.stem: loads(file.read_text())
+    for file in Path('.').glob('extensions/*.json')
+}
 
 
 def open_xml_file():
@@ -61,6 +67,15 @@ def districts_by_year_and_id(root, years):
 
 def as_date(text):
     return datetime.strptime(text, '%Y-%m-%d').date()
+
+
+def extend(year, canton, data):
+    extension = EXTENSIONS.get(canton)
+    if extension and year >= extension['since']:
+        for number in data:
+            data[number].update(extension.get(str(number), {}))
+
+    return data
 
 
 def build_years():
@@ -132,7 +147,9 @@ def build_years():
                     path.parent.mkdir(parents=True)
 
                 with path.open('w') as f:
-                    json.dump(get(year, canton), f, indent=4, sort_keys=True)
+                    data = get(year, canton)
+                    data = extend(year, canton, data)
+                    json.dump(data, f, indent=4, sort_keys=True)
 
                 created.add(path)
 

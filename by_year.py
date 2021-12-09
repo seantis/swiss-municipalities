@@ -21,13 +21,20 @@ EXTENSIONS = {
 
 
 def open_xml_file():
-    try:
-        response = urlopen(URL)
-    except Exception:
-        exit('Please update the URL file!')
-    zipfile = ZipFile(BytesIO(response.read()))
-    xml = next(name for name in zipfile.namelist() if name.endswith('xml'))
-    return zipfile.open(xml)
+    file = Path('data.xml')
+    if not file.exists():
+        try:
+            response = urlopen(URL)
+        except Exception:
+            exit('Please update the URL file!')
+
+        zipfile = ZipFile(BytesIO(response.read()))
+        xml = next(name for name in zipfile.namelist() if name.endswith('xml'))
+
+        with file.open('wb') as f:
+            f.write(zipfile.open(xml).read())
+
+    return file.open()
 
 
 def filter_path(root, path, filters=None):

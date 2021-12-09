@@ -3,3 +3,4 @@ include/
 lib/
 .Python
 pip-selfcheck.json
+data.xml

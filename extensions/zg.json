@@ -1,46 +1,36 @@
 {
+    "since": 2010,
     "1701": {
-        "name": "Baar",
         "region": "Baar"
     },
     "1702": {
-        "name": "Cham",
         "region": "Cham"
     },
     "1703": {
-        "name": "H\u00fcnenberg",
         "region": "H\u00fcnenberg"
     },
     "1704": {
-        "name": "Menzingen",
         "region": "Menzingen"
     },
     "1705": {
-        "name": "Neuheim",
         "region": "Neuheim"
     },
     "1706": {
-        "name": "Ober\u00e4geri",
         "region": "Ober\u00e4geri"
     },
     "1707": {
-        "name": "Risch",
         "region": "Risch"
     },
     "1708": {
-        "name": "Steinhausen",
         "region": "Steinhausen"
     },
     "1709": {
-        "name": "Unter\u00e4geri",
         "region": "Unter\u00e4geri"
     },
     "1710": {
-        "name": "Walchwil",
         "region": "Walchwil"
     },
     "1711": {
-        "name": "Zug",
         "region": "Zug"
     }
 }

@@ -22,6 +22,13 @@ the district - if available - keyed by the id/BFS-Nummer. It provides separate
 files by year and canton as well as one large file with all years and all
 cantons.
 
+It's possible to add additional data to the files using the JSON in the
+extensions folder. For every year since the year given in the JSON the data
+is added to the municipality with the given BFS-Nummer. At the moment,
+additional districts (`region`) and super districts (`superregion`) used for
+Kantonsrats-, Landrats- and Grossratswahlen are defined for a few cantons and
+years.
+
 To generate the latest data run `python by_year.py`. Note that this script
 requires Python 3.4+.
 

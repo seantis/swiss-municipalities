@@ -80,7 +80,14 @@ def extend(year, canton, data):
     extension = EXTENSIONS.get(canton)
     if extension and year >= extension['since']:
         for number in data:
-            data[number].update(extension.get(str(number), {}))
+            additional_data = extension.get(str(number), {})
+            data[number].update(additional_data)
+            if not additional_data:
+                print(
+                    '\nWarning: No extension data for {} {} {}'.format(
+                        year, canton.upper(), number
+                    )
+                )
 
     return data
 
@@ -91,7 +98,7 @@ def build_years():
 
     years = set(range(1960, max_year + 1))
     print(
-        "Building {}-{}\n".format(min(years), max(years)), end='', flush=True
+        'Building {}-{}\n'.format(min(years), max(years)), end='', flush=True
     )
 
     by_year = {year: defaultdict(dict) for year in years}
@@ -140,7 +147,7 @@ def build_years():
     created = set()
 
     for year, cantons in by_year.items():
-        print(".", end='', flush=True)
+        print('.', end='', flush=True)
 
         for canton in cantons:
             for output, get in outputs.items():

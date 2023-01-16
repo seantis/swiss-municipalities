@@ -223,17 +223,9 @@
         "district": "Lugano",
         "name": "Manno"
     },
-    "5195": {
-        "district": "Lugano",
-        "name": "Maroggia"
-    },
     "5196": {
         "district": "Lugano",
         "name": "Massagno"
-    },
-    "5197": {
-        "district": "Lugano",
-        "name": "Melano"
     },
     "5198": {
         "district": "Lugano",
@@ -282,10 +274,6 @@
     "5216": {
         "district": "Lugano",
         "name": "Pura"
-    },
-    "5219": {
-        "district": "Lugano",
-        "name": "Rovio"
     },
     "5221": {
         "district": "Lugano",

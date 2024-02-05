@@ -35,6 +35,7 @@ requires Python 3.4+.
 ## URL
 
 The `URL` file contains the url to the "Historisiertes Gemeindeverzeichnis
-der Schweiz (XML Format)" zip file of the Swiss Governement. This url may
-change over time (especially when new data is released around new year). It is
-found on the website mentioned at the beginning of this readme.
+der Schweiz (XML Format)" zip file of the Swiss Governement. This url typically
+changes over time (especially when new data is released around new year). It is
+found on the website mentioned at the beginning of this readme. After updating
+the URL, make sure to delete your local `data.xml`.

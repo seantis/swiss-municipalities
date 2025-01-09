@@ -11,6 +11,9 @@ from xml.etree import ElementTree as ET
 from zipfile import ZipFile
 
 
+# NOTE: The API does not appear to contain the latest version anymore
+#       so you may need to manually download the zip file and create
+#       data.xml manually
 with open('./URL') as f:
     URL = next(f)
 
